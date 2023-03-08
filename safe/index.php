@@ -1,604 +1,1323 @@
-<!DOCTYPE html><html class="no-js"><!--<![endif]--><head><meta name="title" content="JJ Fitness">
-<meta property="og:title" content="JJ Fitness">
-<meta property="og:type" content="article">
-<link rel="shortcut icon" href="logo.html" type="image/x-icon"><meta name="author" content="Fit Cloud"><script src="js/jquery-1.9.1.min.js"></script>
-<script src="js/jquery.colorbox.js"></script>
-<script src="js/messi.min.js"></script>
-<script src="js/jquery.cycle.all.js"></script>
-<script>$('#misBanners').cycle('fade');$('#misBanners').cycle('fade');$('#misBanners').cycle('fade');$('#misBanners').cycle('fade');$('#misBanners').cycle('fade');/*GALERISFIT*/</script>
-<script src="js/jscal2.js"></script>
-<script src="js/es.js"></script>
-<script src="js/responsive-tables.js"></script>
-<script src="js/idm_1.js"></script>
-<script src="js/funcions.js"></script>
-<meta name="facebook-domain-verification" content="m609hvnztyh2aq627b4mubjrnlt3dj">
-<link rel="stylesheet" href="css/colorbox.css">
-<link rel="stylesheet" href="css/messi.css">
-<link rel="stylesheet" href="css/jscal2.css">
-<link rel="stylesheet" href="css/border-radius.css">
-<link rel="stylesheet" href="css/responsive-tables.css" media="screen">
-<style>/* Fit Cloud (CSS General Banner - Inicio) */
-#Top_bar a.responsive-menu-toggle {
-  color: #ffd600;
+<!DOCTYPE html><html lang="es"><head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-P89HTT5"></script><script async src="js/fbevents.js"></script><script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v19.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Krabi Thai | International massage Dénia</title>
+	<meta name="description" content="Llénate de energía, rejuvenece y relájate en Krabi thai International massage en Dénia. Profesionalidad, limpieza, tacto e intuición.">
+	<link rel="canonical" href="https://krabithai.es/">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Krabi Thai | International massage Dénia">
+	<meta property="og:description" content="Krabi Thai | International massage Dénia">
+	<meta property="og:url" content="https://krabithai.es/">
+	<meta property="og:site_name" content="Krabithai massage">
+	<meta property="article:modified_time" content="2022-07-20T18:20:54+00:00">
+	<meta property="og:image" content="images/Captura-de-pantalla-2022-03-05-a-las-12.30.09-1024x906.png">
+	<meta property="og:image:width" content="1024">
+	<meta property="og:image:height" content="906">
+	<meta property="og:image:type" content="image/png">
+	<meta name="twitter:label1" content="Tiempo de lectura">
+	<meta name="twitter:data1" content="5 minutos">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://krabithai.es/#organization","name":"Krabithai massage","url":"https://krabithai.es/","sameAs":[],"logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://krabithai.es/#/schema/logo/image/","url":"https://krabithai.es/wp-content/uploads/2021/10/cropped-Logo-krabithai.png","contentUrl":"https://krabithai.es/wp-content/uploads/2021/10/cropped-Logo-krabithai.png","width":250,"height":250,"caption":"Krabithai massage"},"image":{"@id":"https://krabithai.es/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://krabithai.es/#website","url":"https://krabithai.es/","name":"Krabithai massage","description":"International Massage Thai","publisher":{"@id":"https://krabithai.es/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://krabithai.es/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"ImageObject","inLanguage":"es","@id":"https://krabithai.es/#primaryimage","url":"https://krabithai.es/wp-content/uploads/2022/03/Captura-de-pantalla-2022-03-05-a-las-12.30.09.png","contentUrl":"https://krabithai.es/wp-content/uploads/2022/03/Captura-de-pantalla-2022-03-05-a-las-12.30.09.png","width":1216,"height":1076,"caption":"Krabi thai | Spa masaje denia"},{"@type":"WebPage","@id":"https://krabithai.es/","url":"https://krabithai.es/","name":"Krabi Thai | International massage Dénia","isPartOf":{"@id":"https://krabithai.es/#website"},"about":{"@id":"https://krabithai.es/#organization"},"primaryImageOfPage":{"@id":"https://krabithai.es/#primaryimage"},"datePublished":"2018-11-06T19:47:01+00:00","dateModified":"2022-07-20T18:20:54+00:00","description":"Llénate de energía, rejuvenece y relájate en Krabi thai International massage en Dénia. Profesionalidad, limpieza, tacto e intuición.","breadcrumb":{"@id":"https://krabithai.es/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://krabithai.es/"]}]},{"@type":"BreadcrumbList","@id":"https://krabithai.es/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Krabithai massage » Feed" href="https://krabithai.es/feed/">
+<link rel="alternate" type="application/rss+xml" title="Krabithai massage » Feed de los comentarios" href="https://krabithai.es/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/krabithai.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.6"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="js/wp-emoji-release.min.js" type="text/javascript" defer></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
-#Top_bar #logo img.logo-main {
-  display: inline !important;
-}
-/* Fit Cloud (CSS Cookies Original) */
-/* Fit Cloud (original: cookies.css) */
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="css/style.min_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="wc-blocks-vendors-style-css" href="css/wc-blocks-vendors-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="wc-blocks-style-css" href="css/wc-blocks-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="css/woocommerce-layout.css" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="css/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="css/woocommerce.css" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="hello-elementor-css" href="css/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="hello-elementor-theme-style-css" href="css/theme.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="chld_thm_cfg_child-css" href="css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="css/elementor-icons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="css/frontend-lite.min_1.css" type="text/css" media="all">
+<style id="elementor-frontend-inline-css" type="text/css">
+.elementor-kit-45{--e-global-color-primary:#201111;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#FFBF31;--e-global-color-3288139:#FDFDFD;--e-global-color-6290da1:#0A4335;--e-global-color-c7b5637:#135C54;--e-global-color-80b1784:#63938D;--e-global-color-7a3df47:#B4CEC9;--e-global-color-88bb4ae:#E95C28;--e-global-typography-primary-font-family:"Montserrat";--e-global-typography-primary-font-size:33px;--e-global-typography-primary-font-weight:300;--e-global-typography-secondary-font-family:"Montserrat";--e-global-typography-secondary-font-size:38px;--e-global-typography-secondary-font-weight:300;--e-global-typography-text-font-family:"Montserrat";--e-global-typography-text-font-size:18px;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Montserrat";--e-global-typography-accent-font-size:18px;--e-global-typography-accent-font-weight:500;font-family:"Georgia", Sans-serif;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-container{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-45 e-page-transition{background-color:#FFBC7D;}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-container{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-container{--container-max-width:767px;}}
+.elementor-widget-heading .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-text-editor{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-button .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-divider{--divider-color:var( --e-global-color-secondary );}.elementor-widget-divider .elementor-divider__text{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-divider.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon{color:var( --e-global-color-secondary );border-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-secondary );}.elementor-widget-image-box .elementor-image-box-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-image-box .elementor-image-box-description{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-icon.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-box.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-title{color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-title, .elementor-widget-icon-box .elementor-icon-box-title a{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-icon-box .elementor-icon-box-description{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-star-rating .elementor-star-rating__title{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-image-gallery .gallery-item .gallery-caption{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after{border-color:var( --e-global-color-text );}.elementor-widget-icon-list .elementor-icon-list-icon i{color:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-text{color:var( --e-global-color-secondary );}.elementor-widget-icon-list .elementor-icon-list-item > .elementor-icon-list-text, .elementor-widget-icon-list .elementor-icon-list-item > a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-counter .elementor-counter-number-wrapper{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-counter .elementor-counter-title{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar{background-color:var( --e-global-color-primary );}.elementor-widget-progress .elementor-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-testimonial .elementor-testimonial-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-testimonial .elementor-testimonial-name{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-testimonial .elementor-testimonial-job{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-tabs .elementor-tab-title, .elementor-widget-tabs .elementor-tab-title a{color:var( --e-global-color-primary );}.elementor-widget-tabs .elementor-tab-title.elementor-active,
+					 .elementor-widget-tabs .elementor-tab-title.elementor-active a{color:var( --e-global-color-accent );}.elementor-widget-tabs .elementor-tab-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-tabs .elementor-tab-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-accordion .elementor-accordion-icon, .elementor-widget-accordion .elementor-accordion-title{color:var( --e-global-color-primary );}.elementor-widget-accordion .elementor-accordion-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-accordion .elementor-active .elementor-accordion-icon, .elementor-widget-accordion .elementor-active .elementor-accordion-title{color:var( --e-global-color-accent );}.elementor-widget-accordion .elementor-active .elementor-accordion-icon svg{fill:var( --e-global-color-accent );}.elementor-widget-accordion .elementor-accordion-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-accordion .elementor-tab-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-toggle .elementor-toggle-title, .elementor-widget-toggle .elementor-toggle-icon{color:var( --e-global-color-primary );}.elementor-widget-toggle .elementor-toggle-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-toggle .elementor-tab-title.elementor-active a, .elementor-widget-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon{color:var( --e-global-color-accent );}.elementor-widget-toggle .elementor-toggle-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-toggle .elementor-tab-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-alert .elementor-alert-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-alert .elementor-alert-description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-text-path{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-theme-site-logo .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-theme-site-title .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-theme-page-title .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-theme-post-title .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-theme-post-excerpt .elementor-widget-container{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-theme-post-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-theme-post-featured-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-theme-archive-title .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-archive-posts .elementor-post__title, .elementor-widget-archive-posts .elementor-post__title a{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-archive-posts .elementor-post__meta-data{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-archive-posts .elementor-post__excerpt p{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-archive-posts .elementor-post__read-more{color:var( --e-global-color-accent );}.elementor-widget-archive-posts a.elementor-post__read-more{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-archive-posts .elementor-post__card .elementor-post__badge{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-archive-posts .elementor-pagination{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-archive-posts .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-archive-posts .e-load-more-message{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-archive-posts .elementor-posts-nothing-found{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-posts .elementor-post__title, .elementor-widget-posts .elementor-post__title a{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-posts .elementor-post__meta-data{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-posts .elementor-post__excerpt p{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-posts .elementor-post__read-more{color:var( --e-global-color-accent );}.elementor-widget-posts a.elementor-post__read-more{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-posts .elementor-post__card .elementor-post__badge{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-posts .elementor-pagination{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-posts .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-posts .e-load-more-message{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-portfolio a .elementor-portfolio-item__overlay{background-color:var( --e-global-color-accent );}.elementor-widget-portfolio .elementor-portfolio-item__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-portfolio .elementor-portfolio__filter{color:var( --e-global-color-text );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-portfolio .elementor-portfolio__filter.elementor-active{color:var( --e-global-color-primary );}.elementor-widget-gallery .elementor-gallery-item__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-gallery .elementor-gallery-item__description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-gallery{--galleries-title-color-normal:var( --e-global-color-primary );--galleries-title-color-hover:var( --e-global-color-secondary );--galleries-pointer-bg-color-hover:var( --e-global-color-accent );--gallery-title-color-active:var( --e-global-color-secondary );--galleries-pointer-bg-color-active:var( --e-global-color-accent );}.elementor-widget-gallery .elementor-gallery-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-form .elementor-field-group > label, .elementor-widget-form .elementor-field-subgroup label{color:var( --e-global-color-text );}.elementor-widget-form .elementor-field-group > label{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-form .elementor-field-type-html{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-form .elementor-field-group .elementor-field{color:var( --e-global-color-text );}.elementor-widget-form .elementor-field-group .elementor-field, .elementor-widget-form .elementor-field-subgroup label{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-form .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-form .e-form__buttons__wrapper__button-next{background-color:var( --e-global-color-accent );}.elementor-widget-form .elementor-button[type="submit"]{background-color:var( --e-global-color-accent );}.elementor-widget-form .e-form__buttons__wrapper__button-previous{background-color:var( --e-global-color-accent );}.elementor-widget-form .elementor-message{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-form .e-form__indicators__indicator, .elementor-widget-form .e-form__indicators__indicator__label{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-form{--e-form-steps-indicator-inactive-primary-color:var( --e-global-color-text );--e-form-steps-indicator-active-primary-color:var( --e-global-color-accent );--e-form-steps-indicator-completed-primary-color:var( --e-global-color-accent );--e-form-steps-indicator-progress-color:var( --e-global-color-accent );--e-form-steps-indicator-progress-background-color:var( --e-global-color-text );--e-form-steps-indicator-progress-meter-color:var( --e-global-color-text );}.elementor-widget-form .e-form__indicators__indicator__progress__meter{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-login .elementor-field-group > a{color:var( --e-global-color-text );}.elementor-widget-login .elementor-field-group > a:hover{color:var( --e-global-color-accent );}.elementor-widget-login .elementor-form-fields-wrapper label{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-login .elementor-field-group .elementor-field{color:var( --e-global-color-text );}.elementor-widget-login .elementor-field-group .elementor-field, .elementor-widget-login .elementor-field-subgroup label{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-login .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-login .elementor-widget-container .elementor-login__logged-in-message{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-slides .elementor-slide-heading{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-slides .elementor-slide-description{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-slides .elementor-slide-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-accent );fill:var( --e-global-color-accent );}.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-accent );}.elementor-widget-nav-menu{--e-nav-menu-divider-color:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-animated-headline .elementor-headline-dynamic-wrapper path{stroke:var( --e-global-color-accent );}.elementor-widget-animated-headline .elementor-headline-plain-text{color:var( --e-global-color-secondary );}.elementor-widget-animated-headline .elementor-headline{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-animated-headline{--dynamic-text-color:var( --e-global-color-secondary );}.elementor-widget-animated-headline .elementor-headline-dynamic-text{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-hotspot .widget-image-caption{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-hotspot{--hotspot-color:var( --e-global-color-primary );--hotspot-box-color:var( --e-global-color-secondary );--tooltip-color:var( --e-global-color-secondary );}.elementor-widget-hotspot .e-hotspot__label{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-hotspot .e-hotspot__tooltip{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-price-list .elementor-price-list-header{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-price-list .elementor-price-list-price{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-price-list .elementor-price-list-description{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-price-list .elementor-price-list-separator{border-bottom-color:var( --e-global-color-secondary );}.elementor-widget-price-table{--e-price-table-header-background-color:var( --e-global-color-secondary );}.elementor-widget-price-table .elementor-price-table__heading{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-price-table .elementor-price-table__subheading{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-price-table .elementor-price-table .elementor-price-table__price{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-price-table .elementor-price-table__original-price{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-price-table .elementor-price-table__period{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-price-table .elementor-price-table__features-list{--e-price-table-features-list-color:var( --e-global-color-text );}.elementor-widget-price-table .elementor-price-table__features-list li{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-price-table .elementor-price-table__features-list li:before{border-top-color:var( --e-global-color-text );}.elementor-widget-price-table .elementor-price-table__button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-price-table .elementor-price-table__additional_info{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-price-table .elementor-price-table__ribbon-inner{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-flip-box .elementor-flip-box__button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-call-to-action .elementor-cta__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-call-to-action .elementor-cta__description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-call-to-action .elementor-cta__button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-call-to-action .elementor-ribbon-inner{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-media-carousel .elementor-carousel-image-overlay{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-testimonial-carousel .elementor-testimonial__text{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-testimonial-carousel .elementor-testimonial__name{color:var( --e-global-color-text );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-testimonial-carousel .elementor-testimonial__title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-reviews .elementor-testimonial__header, .elementor-widget-reviews .elementor-testimonial__name{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-reviews .elementor-testimonial__text{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-table-of-contents{--header-color:var( --e-global-color-secondary );--item-text-color:var( --e-global-color-text );--item-text-hover-color:var( --e-global-color-accent );--marker-color:var( --e-global-color-text );}.elementor-widget-table-of-contents .elementor-toc__header, .elementor-widget-table-of-contents .elementor-toc__header-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-table-of-contents .elementor-toc__list-item{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-countdown .elementor-countdown-item{background-color:var( --e-global-color-primary );}.elementor-widget-countdown .elementor-countdown-digits{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-countdown .elementor-countdown-label{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-countdown .elementor-countdown-expire--message{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-search-form input[type="search"].elementor-search-form__input{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-search-form .elementor-search-form__input,
+					.elementor-widget-search-form .elementor-search-form__icon,
+					.elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button,
+					.elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button:hover,
+					.elementor-widget-search-form.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-search-form .elementor-search-form__submit{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );background-color:var( --e-global-color-secondary );}.elementor-widget-author-box .elementor-author-box__name{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-author-box .elementor-author-box__bio{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-author-box .elementor-author-box__button{color:var( --e-global-color-secondary );border-color:var( --e-global-color-secondary );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-author-box .elementor-author-box__button:hover{border-color:var( --e-global-color-secondary );color:var( --e-global-color-secondary );}.elementor-widget-post-navigation span.post-navigation__prev--label{color:var( --e-global-color-text );}.elementor-widget-post-navigation span.post-navigation__next--label{color:var( --e-global-color-text );}.elementor-widget-post-navigation span.post-navigation__prev--label, .elementor-widget-post-navigation span.post-navigation__next--label{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-post-navigation span.post-navigation__prev--title, .elementor-widget-post-navigation span.post-navigation__next--title{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-post-info .elementor-icon-list-item:not(:last-child):after{border-color:var( --e-global-color-text );}.elementor-widget-post-info .elementor-icon-list-icon i{color:var( --e-global-color-primary );}.elementor-widget-post-info .elementor-icon-list-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-post-info .elementor-icon-list-text, .elementor-widget-post-info .elementor-icon-list-text a{color:var( --e-global-color-secondary );}.elementor-widget-post-info .elementor-icon-list-item{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-sitemap .elementor-sitemap-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-sitemap .elementor-sitemap-item, .elementor-widget-sitemap span.elementor-sitemap-list, .elementor-widget-sitemap .elementor-sitemap-item a{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-sitemap .elementor-sitemap-item{color:var( --e-global-color-text );}.elementor-widget-breadcrumbs{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-blockquote .elementor-blockquote__content{color:var( --e-global-color-text );}.elementor-widget-blockquote .elementor-blockquote__author{color:var( --e-global-color-secondary );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title{color:var( --e-global-color-primary );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{color:var( --e-global-color-primary );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .price{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .price ins{color:var( --e-global-color-primary );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .price ins .amount{color:var( --e-global-color-primary );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .price del{color:var( --e-global-color-primary );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .price del .amount{color:var( --e-global-color-primary );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .price del {font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-wc-archive-products.elementor-wc-products .added_to_cart{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-wc-archive-products{--products-title-color:var( --e-global-color-primary );}.elementor-widget-wc-archive-products.products-heading-show .related > h2, .elementor-widget-wc-archive-products.products-heading-show .upsells > h2, .elementor-widget-wc-archive-products.products-heading-show .cross-sells > h2{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-wc-archive-products .elementor-products-nothing-found{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .price{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .price ins{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .price ins .amount{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .price del{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .price del .amount{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .price del {font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-woocommerce-archive-products.elementor-wc-products .added_to_cart{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-woocommerce-archive-products{--products-title-color:var( --e-global-color-primary );}.elementor-widget-woocommerce-archive-products.products-heading-show .related > h2, .elementor-widget-woocommerce-archive-products.products-heading-show .upsells > h2, .elementor-widget-woocommerce-archive-products.products-heading-show .cross-sells > h2{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-archive-products .elementor-products-nothing-found{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .price{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .price ins{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .price ins .amount{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .price del{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .price del .amount{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .price del {font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-woocommerce-products.elementor-wc-products .added_to_cart{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-woocommerce-products{--products-title-color:var( --e-global-color-primary );}.elementor-widget-woocommerce-products.products-heading-show .related > h2, .elementor-widget-woocommerce-products.products-heading-show .upsells > h2, .elementor-widget-woocommerce-products.products-heading-show .cross-sells > h2{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title{color:var( --e-global-color-primary );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{color:var( --e-global-color-primary );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-wc-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .price{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .price ins{color:var( --e-global-color-primary );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .price ins .amount{color:var( --e-global-color-primary );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .price del{color:var( --e-global-color-primary );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .price del .amount{color:var( --e-global-color-primary );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .price del {font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-wc-products.elementor-wc-products .added_to_cart{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-wc-add-to-cart .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-wc-categories .woocommerce .woocommerce-loop-category__title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-wc-categories .woocommerce-loop-category__title .count{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__toggle .elementor-button{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__product-name a{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__product-price{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__footer-buttons .elementor-button{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__footer-buttons a.elementor-button--view-cart{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__footer-buttons a.elementor-button--checkout{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-menu-cart .woocommerce-mini-cart__empty-message{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-product-title .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.woocommerce .elementor-widget-woocommerce-product-price .price{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-product-meta .product_meta .detail-container:not(:last-child):after{border-color:var( --e-global-color-text );}.elementor-widget-woocommerce-product-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .woocommerce-loop-product__title{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .price{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .price ins{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .price ins .amount{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .price del{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .price del .amount{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .price del {font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-woocommerce-product-related.elementor-wc-products .added_to_cart{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.woocommerce .elementor-widget-woocommerce-product-related.elementor-wc-products .products > h2{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .woocommerce-loop-product__title{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .price{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .price ins{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .price ins .amount{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .price del{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .price del .amount{color:var( --e-global-color-primary );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .price del {font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products .added_to_cart{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products .products > h2{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-woocommerce-checkout-page .product-name .variation{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-lottie{--caption-color:var( --e-global-color-text );}.elementor-widget-lottie .e-lottie__caption{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-video-playlist .e-tabs-header .e-tabs-title{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-header .e-tabs-videos-count{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-header .e-tabs-header-right-side i{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-header .e-tabs-header-right-side svg{fill:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tab-title .e-tab-title-text{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-video-playlist .e-tab-title .e-tab-title-text a{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tab-title .e-tab-duration{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title:where( .e-active, :hover ) .e-tab-title-text{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title:where( .e-active, :hover ) .e-tab-title-text a{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title:where( .e-active, :hover ) .e-tab-duration{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-items-wrapper .e-section-title{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-wrapper .e-inner-tab-title a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-content-wrapper .e-inner-tab-content .e-inner-tab-text{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-content-wrapper .e-inner-tab-content button{color:var( --e-global-color-text );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-content-wrapper .e-inner-tab-content button:hover{color:var( --e-global-color-text );}.elementor-widget-paypal-button .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-paypal-button .elementor-message{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-stripe-button .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-stripe-button .elementor-message{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-progress-tracker .current-progress-percentage{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}@media(max-width:1024px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-image .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-button .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-divider .elementor-divider__text{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-image-box .elementor-image-box-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-image-box .elementor-image-box-description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-icon-box .elementor-icon-box-title, .elementor-widget-icon-box .elementor-icon-box-title a{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-icon-box .elementor-icon-box-description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-star-rating .elementor-star-rating__title{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-image-gallery .gallery-item .gallery-caption{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-icon-list .elementor-icon-list-item > .elementor-icon-list-text, .elementor-widget-icon-list .elementor-icon-list-item > a{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-counter .elementor-counter-number-wrapper{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-counter .elementor-counter-title{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-progress .elementor-title{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-testimonial .elementor-testimonial-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-testimonial .elementor-testimonial-name{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-testimonial .elementor-testimonial-job{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-tabs .elementor-tab-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-tabs .elementor-tab-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-accordion .elementor-accordion-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-accordion .elementor-tab-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-toggle .elementor-toggle-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-toggle .elementor-tab-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-alert .elementor-alert-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-alert .elementor-alert-description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-text-path{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-theme-site-logo .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-theme-site-title .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-theme-page-title .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-theme-post-title .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-theme-post-excerpt .elementor-widget-container{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-theme-post-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-theme-post-featured-image .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-theme-archive-title .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-archive-posts .elementor-post__title, .elementor-widget-archive-posts .elementor-post__title a{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-archive-posts .elementor-post__meta-data{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-archive-posts .elementor-post__excerpt p{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-archive-posts a.elementor-post__read-more{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-archive-posts .elementor-pagination{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-archive-posts .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-archive-posts .e-load-more-message{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-archive-posts .elementor-posts-nothing-found{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-posts .elementor-post__title, .elementor-widget-posts .elementor-post__title a{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-posts .elementor-post__meta-data{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-posts .elementor-post__excerpt p{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-posts a.elementor-post__read-more{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-posts .elementor-pagination{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-posts .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-posts .e-load-more-message{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-portfolio .elementor-portfolio-item__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-portfolio .elementor-portfolio__filter{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-gallery .elementor-gallery-item__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-gallery .elementor-gallery-item__description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-gallery .elementor-gallery-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-form .elementor-field-group > label{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-form .elementor-field-type-html{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-form .elementor-field-group .elementor-field, .elementor-widget-form .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-form .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-form .elementor-message{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-form .e-form__indicators__indicator, .elementor-widget-form .e-form__indicators__indicator__label{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-form .e-form__indicators__indicator__progress__meter{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-login .elementor-form-fields-wrapper label{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-login .elementor-field-group .elementor-field, .elementor-widget-login .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-login .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-login .elementor-widget-container .elementor-login__logged-in-message{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-slides .elementor-slide-heading{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-slides .elementor-slide-description{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-slides .elementor-slide-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-animated-headline .elementor-headline{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-hotspot .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-hotspot .e-hotspot__label{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-hotspot .e-hotspot__tooltip{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-price-list .elementor-price-list-header{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-price-list .elementor-price-list-price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-price-list .elementor-price-list-description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-price-table .elementor-price-table__heading{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-price-table .elementor-price-table__subheading{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-price-table .elementor-price-table .elementor-price-table__price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-price-table .elementor-price-table__original-price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-price-table .elementor-price-table__period{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-price-table .elementor-price-table__features-list li{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-price-table .elementor-price-table__button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-price-table .elementor-price-table__additional_info{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-price-table .elementor-price-table__ribbon-inner{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-flip-box .elementor-flip-box__button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-call-to-action .elementor-cta__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-call-to-action .elementor-cta__description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-call-to-action .elementor-cta__button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-call-to-action .elementor-ribbon-inner{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-media-carousel .elementor-carousel-image-overlay{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-testimonial-carousel .elementor-testimonial__text{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-testimonial-carousel .elementor-testimonial__name{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-testimonial-carousel .elementor-testimonial__title{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-reviews .elementor-testimonial__header, .elementor-widget-reviews .elementor-testimonial__name{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-reviews .elementor-testimonial__text{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-table-of-contents .elementor-toc__header, .elementor-widget-table-of-contents .elementor-toc__header-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-table-of-contents .elementor-toc__list-item{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-countdown .elementor-countdown-digits{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-countdown .elementor-countdown-label{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-countdown .elementor-countdown-expire--message{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-search-form input[type="search"].elementor-search-form__input{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-search-form .elementor-search-form__submit{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-author-box .elementor-author-box__name{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-author-box .elementor-author-box__bio{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-author-box .elementor-author-box__button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-post-navigation span.post-navigation__prev--label, .elementor-widget-post-navigation span.post-navigation__next--label{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-post-navigation span.post-navigation__prev--title, .elementor-widget-post-navigation span.post-navigation__next--title{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-post-info .elementor-icon-list-item{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-sitemap .elementor-sitemap-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-sitemap .elementor-sitemap-item, .elementor-widget-sitemap span.elementor-sitemap-list, .elementor-widget-sitemap .elementor-sitemap-item a{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-breadcrumbs{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-wc-archive-products.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-wc-archive-products.products-heading-show .related > h2, .elementor-widget-wc-archive-products.products-heading-show .upsells > h2, .elementor-widget-wc-archive-products.products-heading-show .cross-sells > h2{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-archive-products .elementor-products-nothing-found{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-archive-products.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-archive-products.products-heading-show .related > h2, .elementor-widget-woocommerce-archive-products.products-heading-show .upsells > h2, .elementor-widget-woocommerce-archive-products.products-heading-show .cross-sells > h2{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-archive-products .elementor-products-nothing-found{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-products.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-products.products-heading-show .related > h2, .elementor-widget-woocommerce-products.products-heading-show .upsells > h2, .elementor-widget-woocommerce-products.products-heading-show .cross-sells > h2{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-wc-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-wc-products.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-wc-add-to-cart .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-wc-categories .woocommerce .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-categories .woocommerce-loop-category__title .count{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__toggle .elementor-button{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__product-name a{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__product-price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__footer-buttons .elementor-button{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__footer-buttons a.elementor-button--view-cart{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__footer-buttons a.elementor-button--checkout{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .woocommerce-mini-cart__empty-message{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-title .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.woocommerce .elementor-widget-woocommerce-product-price .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-product-related.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.woocommerce .elementor-widget-woocommerce-product-related.elementor-wc-products .products > h2{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products .products > h2{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-checkout-page .product-name .variation{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-lottie .e-lottie__caption{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-video-playlist .e-tab-title .e-tab-title-text{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title:where( .e-active, :hover ) .e-tab-title-text{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-wrapper .e-inner-tab-title a{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-content-wrapper .e-inner-tab-content .e-inner-tab-text{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-content-wrapper .e-inner-tab-content button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-paypal-button .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-paypal-button .elementor-message{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-stripe-button .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-stripe-button .elementor-message{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-progress-tracker .current-progress-percentage{font-size:var( --e-global-typography-text-font-size );}}@media(max-width:767px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-image .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-button .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-divider .elementor-divider__text{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-image-box .elementor-image-box-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-image-box .elementor-image-box-description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-icon-box .elementor-icon-box-title, .elementor-widget-icon-box .elementor-icon-box-title a{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-icon-box .elementor-icon-box-description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-star-rating .elementor-star-rating__title{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-image-gallery .gallery-item .gallery-caption{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-icon-list .elementor-icon-list-item > .elementor-icon-list-text, .elementor-widget-icon-list .elementor-icon-list-item > a{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-counter .elementor-counter-number-wrapper{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-counter .elementor-counter-title{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-progress .elementor-title{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-testimonial .elementor-testimonial-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-testimonial .elementor-testimonial-name{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-testimonial .elementor-testimonial-job{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-tabs .elementor-tab-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-tabs .elementor-tab-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-accordion .elementor-accordion-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-accordion .elementor-tab-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-toggle .elementor-toggle-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-toggle .elementor-tab-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-alert .elementor-alert-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-alert .elementor-alert-description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-text-path{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-theme-site-logo .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-theme-site-title .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-theme-page-title .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-theme-post-title .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-theme-post-excerpt .elementor-widget-container{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-theme-post-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-theme-post-featured-image .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-theme-archive-title .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-archive-posts .elementor-post__title, .elementor-widget-archive-posts .elementor-post__title a{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-archive-posts .elementor-post__meta-data{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-archive-posts .elementor-post__excerpt p{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-archive-posts a.elementor-post__read-more{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-archive-posts .elementor-pagination{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-archive-posts .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-archive-posts .e-load-more-message{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-archive-posts .elementor-posts-nothing-found{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-posts .elementor-post__title, .elementor-widget-posts .elementor-post__title a{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-posts .elementor-post__meta-data{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-posts .elementor-post__excerpt p{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-posts a.elementor-post__read-more{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-posts .elementor-pagination{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-posts .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-posts .e-load-more-message{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-portfolio .elementor-portfolio-item__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-portfolio .elementor-portfolio__filter{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-gallery .elementor-gallery-item__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-gallery .elementor-gallery-item__description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-gallery .elementor-gallery-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-form .elementor-field-group > label{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-form .elementor-field-type-html{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-form .elementor-field-group .elementor-field, .elementor-widget-form .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-form .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-form .elementor-message{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-form .e-form__indicators__indicator, .elementor-widget-form .e-form__indicators__indicator__label{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-form .e-form__indicators__indicator__progress__meter{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-login .elementor-form-fields-wrapper label{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-login .elementor-field-group .elementor-field, .elementor-widget-login .elementor-field-subgroup label{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-login .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-login .elementor-widget-container .elementor-login__logged-in-message{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-slides .elementor-slide-heading{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-slides .elementor-slide-description{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-slides .elementor-slide-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-animated-headline .elementor-headline{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-hotspot .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-hotspot .e-hotspot__label{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-hotspot .e-hotspot__tooltip{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-price-list .elementor-price-list-header{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-price-list .elementor-price-list-price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-price-list .elementor-price-list-description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-price-table .elementor-price-table__heading{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-price-table .elementor-price-table__subheading{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-price-table .elementor-price-table .elementor-price-table__price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-price-table .elementor-price-table__original-price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-price-table .elementor-price-table__period{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-price-table .elementor-price-table__features-list li{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-price-table .elementor-price-table__button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-price-table .elementor-price-table__additional_info{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-price-table .elementor-price-table__ribbon-inner{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-flip-box .elementor-flip-box__button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-call-to-action .elementor-cta__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-call-to-action .elementor-cta__description{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-call-to-action .elementor-cta__button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-call-to-action .elementor-ribbon-inner{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-media-carousel .elementor-carousel-image-overlay{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-testimonial-carousel .elementor-testimonial__text{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-testimonial-carousel .elementor-testimonial__name{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-testimonial-carousel .elementor-testimonial__title{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-reviews .elementor-testimonial__header, .elementor-widget-reviews .elementor-testimonial__name{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-reviews .elementor-testimonial__text{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-table-of-contents .elementor-toc__header, .elementor-widget-table-of-contents .elementor-toc__header-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-table-of-contents .elementor-toc__list-item{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-countdown .elementor-countdown-digits{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-countdown .elementor-countdown-label{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-countdown .elementor-countdown-expire--message{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-search-form input[type="search"].elementor-search-form__input{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-search-form .elementor-search-form__submit{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-author-box .elementor-author-box__name{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-author-box .elementor-author-box__bio{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-author-box .elementor-author-box__button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-post-navigation span.post-navigation__prev--label, .elementor-widget-post-navigation span.post-navigation__next--label{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-post-navigation span.post-navigation__prev--title, .elementor-widget-post-navigation span.post-navigation__next--title{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-post-info .elementor-icon-list-item{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-sitemap .elementor-sitemap-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-sitemap .elementor-sitemap-item, .elementor-widget-sitemap span.elementor-sitemap-list, .elementor-widget-sitemap .elementor-sitemap-item a{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-breadcrumbs{font-size:var( --e-global-typography-secondary-font-size );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-archive-products.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-wc-archive-products.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-wc-archive-products.products-heading-show .related > h2, .elementor-widget-wc-archive-products.products-heading-show .upsells > h2, .elementor-widget-wc-archive-products.products-heading-show .cross-sells > h2{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-archive-products .elementor-products-nothing-found{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-archive-products.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-archive-products.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-archive-products.products-heading-show .related > h2, .elementor-widget-woocommerce-archive-products.products-heading-show .upsells > h2, .elementor-widget-woocommerce-archive-products.products-heading-show .cross-sells > h2{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-archive-products .elementor-products-nothing-found{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-products.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-products.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-products.products-heading-show .related > h2, .elementor-widget-woocommerce-products.products-heading-show .upsells > h2, .elementor-widget-woocommerce-products.products-heading-show .cross-sells > h2{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-wc-products.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-products.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-wc-products.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-wc-add-to-cart .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-wc-categories .woocommerce .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-wc-categories .woocommerce-loop-category__title .count{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__toggle .elementor-button{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__product-name a{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__product-price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__footer-buttons .elementor-button{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__footer-buttons a.elementor-button--view-cart{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .elementor-menu-cart__footer-buttons a.elementor-button--checkout{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-menu-cart .woocommerce-mini-cart__empty-message{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-title .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.woocommerce .elementor-widget-woocommerce-product-price .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-content{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-related.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-product-related.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.woocommerce .elementor-widget-woocommerce-product-related.elementor-wc-products .products > h2{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .price{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .price del {font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products ul.products li.product .button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products .added_to_cart{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-woocommerce-product-upsell.elementor-wc-products .products > h2{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-woocommerce-checkout-page .product-name .variation{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-lottie .e-lottie__caption{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-video-playlist .e-tab-title .e-tab-title-text{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title:where( .e-active, :hover ) .e-tab-title-text{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-wrapper .e-inner-tab-title a{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-content-wrapper .e-inner-tab-content .e-inner-tab-text{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-content-wrapper .e-inner-tab-content button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-paypal-button .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-paypal-button .elementor-message{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-stripe-button .elementor-button{font-size:var( --e-global-typography-accent-font-size );}.elementor-widget-stripe-button .elementor-message{font-size:var( --e-global-typography-text-font-size );}.elementor-widget-progress-tracker .current-progress-percentage{font-size:var( --e-global-typography-text-font-size );}}
+.elementor-21 .elementor-element.elementor-element-41113e87 > .elementor-background-overlay{opacity:0.5;}.elementor-21 .elementor-element.elementor-element-15c3cc43 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-21 .elementor-element.elementor-element-60c23aa0 .elementor-icon-wrapper{text-align:center;}.elementor-21 .elementor-element.elementor-element-60c23aa0.elementor-view-stacked .elementor-icon{background-color:#333437;}.elementor-21 .elementor-element.elementor-element-60c23aa0.elementor-view-framed .elementor-icon, .elementor-21 .elementor-element.elementor-element-60c23aa0.elementor-view-default .elementor-icon{color:#333437;border-color:#333437;}.elementor-21 .elementor-element.elementor-element-60c23aa0.elementor-view-framed .elementor-icon, .elementor-21 .elementor-element.elementor-element-60c23aa0.elementor-view-default .elementor-icon svg{fill:#333437;}.elementor-21 .elementor-element.elementor-element-60c23aa0 .elementor-icon{font-size:78px;}.elementor-21 .elementor-element.elementor-element-60c23aa0 .elementor-icon i, .elementor-21 .elementor-element.elementor-element-60c23aa0 .elementor-icon svg{transform:rotate(0deg);}.elementor-21 .elementor-element.elementor-element-60c23aa0 > .elementor-widget-container{margin:-12px 0px -18px 0px;}.elementor-21 .elementor-element.elementor-element-40e55b46 > .elementor-container{min-height:900px;}.elementor-21 .elementor-element.elementor-element-40e55b46 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-40e55b46:not(.elementor-motion-effects-element-type-background), .elementor-21 .elementor-element.elementor-element-40e55b46 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000;background-image:url("images/shutterstock_1332489212-1.jpg");background-position:center right;background-size:cover;}.elementor-21 .elementor-element.elementor-element-40e55b46{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-40e55b46 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-2a694d3c > .elementor-element-populated{padding:0% 10% 0% 0%;}.elementor-21 .elementor-element.elementor-element-433414e6{text-align:left;color:var( --e-global-color-3288139 );font-family:"Helvetica", Sans-serif;font-size:15px;font-weight:100;line-height:1.8em;letter-spacing:0.5px;}.elementor-21 .elementor-element.elementor-element-433414e6 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-031e3f6{text-align:left;}.elementor-21 .elementor-element.elementor-element-031e3f6 .elementor-heading-title{color:#ffffff;font-family:"Montaga", Sans-serif;font-size:50px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-031e3f6 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-1038cdd{text-align:left;color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-c373c2e .elementor-button{font-family:"Montserrat", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-3288139 );color:var( --e-global-color-3288139 );background-color:#201111B3;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-2ac0b8a7 > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-2ac0b8a7 > .elementor-background-overlay{background-color:var( --e-global-color-3288139 );opacity:0.1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-2ac0b8a7{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:200px 200px 100px 200px;}.elementor-21 .elementor-element.elementor-element-241e3d3a > .elementor-element-populated{padding:25px 25px 25px 25px;}.elementor-21 .elementor-element.elementor-element-2f7f2ced img{opacity:0.85;border-radius:5px 5px 5px 5px;}.elementor-21 .elementor-element.elementor-element-2f7f2ced > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-7105220f.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-21 .elementor-element.elementor-element-7105220f.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-7105220f > .elementor-element-populated{padding:0% 0% 0% 015%;}.elementor-21 .elementor-element.elementor-element-7349470{text-align:center;color:var( --e-global-color-secondary );font-family:"Helvetica", Sans-serif;font-size:13px;font-weight:500;}.elementor-21 .elementor-element.elementor-element-7349470 > .elementor-widget-container{margin:0px 0px -10px 0px;}.elementor-21 .elementor-element.elementor-element-6285fdb6{text-align:left;}.elementor-21 .elementor-element.elementor-element-6285fdb6 .elementor-heading-title{color:var( --e-global-color-primary );font-family:"Montaga", Sans-serif;font-size:40px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-6285fdb6 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-7d785a6{color:var( --e-global-color-text );font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-7c15c1a0 > .elementor-container{max-width:1100px;}.elementor-21 .elementor-element.elementor-element-7c15c1a0 > .elementor-background-overlay{background-color:transparent;background-image:linear-gradient(0deg, var( --e-global-color-7a3df47 ) 35%, var( --e-global-color-3288139 ) 0%);opacity:0.1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-7c15c1a0{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:100px 100px 60px 100px;}.elementor-21 .elementor-element.elementor-element-2cd4e8ac{text-align:center;}.elementor-21 .elementor-element.elementor-element-2cd4e8ac .elementor-heading-title{color:var( --e-global-color-primary );font-family:"Montaga", Sans-serif;font-size:40px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-2cd4e8ac > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-7f9175ab{text-align:center;}.elementor-21 .elementor-element.elementor-element-7f9175ab .elementor-heading-title{color:var( --e-global-color-text );font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-7f9175ab > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-8783912 .elementor-repeater-item-b818ae6 .swiper-slide-bg{background-color:#4054b2;background-image:url(images/shutterstock_363204449-scaled.jpg);background-size:cover;}.elementor-21 .elementor-element.elementor-element-8783912 .swiper-slide{height:450px;transition-duration:calc(5000ms*1.2);}.elementor-21 .elementor-element.elementor-element-8783912 .swiper-slide-contents{max-width:100%;}.elementor-21 .elementor-element.elementor-element-8783912 .swiper-slide-inner{text-align:center;}.elementor-21 .elementor-element.elementor-element-8783912 .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:0px;}.elementor-21 .elementor-element.elementor-element-8783912 .swiper-slide-inner .elementor-slide-description:not(:last-child){margin-bottom:0px;}.elementor-21 .elementor-element.elementor-element-8783912 .elementor-swiper-button{font-size:45px;color:#bfbfbf;}.elementor-21 .elementor-element.elementor-element-8783912 .elementor-swiper-button svg{fill:#bfbfbf;}.elementor-21 .elementor-element.elementor-element-8783912 .swiper-pagination-bullet{height:8px;width:8px;}.elementor-21 .elementor-element.elementor-element-8783912 .swiper-container-horizontal .swiper-pagination-progressbar{height:8px;}.elementor-21 .elementor-element.elementor-element-8783912 .swiper-pagination-fraction{font-size:8px;}.elementor-21 .elementor-element.elementor-element-8783912 .swiper-pagination-bullet-active{background-color:#ffffff;}.elementor-21 .elementor-element.elementor-element-8783912 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:35px 0px 0px 0px;border-radius:5px 5px 5px 5px;}.elementor-21 .elementor-element.elementor-element-115fab2{color:var( --e-global-color-text );font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:400;}.elementor-21 .elementor-element.elementor-element-6c26ec2 > .elementor-container{min-height:200px;}.elementor-21 .elementor-element.elementor-element-6c26ec2 > .elementor-background-overlay{background-color:var( --e-global-color-7a3df47 );opacity:0.1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-6c26ec2{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 40px 40px 40px;}.elementor-21 .elementor-element.elementor-element-1701794 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-445da67{text-align:center;color:var( --e-global-color-secondary );font-family:"Helvetica", Sans-serif;font-size:13px;font-weight:500;}.elementor-21 .elementor-element.elementor-element-445da67 > .elementor-widget-container{margin:0px 0px -10px 0px;}.elementor-21 .elementor-element.elementor-element-7892797{text-align:center;}.elementor-21 .elementor-element.elementor-element-7892797 .elementor-heading-title{color:var( --e-global-color-primary );font-family:"Montaga", Sans-serif;font-size:30px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-7892797 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-cb7c75d .elementor-button{font-family:"Trebuchet MS", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-3288139 );color:var( --e-global-color-3288139 );background-color:#201111B3;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-cb7c75d > .elementor-widget-container{padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-428e06de > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-428e06de{margin-top:200px;margin-bottom:150px;}.elementor-21 .elementor-element.elementor-element-37fa1adb > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-4670517{text-align:left;}.elementor-21 .elementor-element.elementor-element-4670517 .elementor-heading-title{color:var( --e-global-color-primary );font-family:"Montaga", Sans-serif;font-size:40px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-4670517 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-e060d1b{color:var( --e-global-color-text );font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-56029447 > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-56029447{margin-top:30px;margin-bottom:50px;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box__front{background-image:url("images/shutterstock_1898169598-scaled.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box__front .elementor-flip-box__layer__overlay{background-color:#20111157;text-align:left;justify-content:flex-end;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box__back{background-image:url("images/shutterstock_1898169598-scaled.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box__back .elementor-flip-box__layer__overlay{background-color:#54595F96;text-align:center;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box{height:450px;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box__layer, .elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box__layer__overlay{border-radius:4px;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box__front .elementor-flip-box__layer__title{margin-bottom:15px;color:#ffffff;font-family:"Montserrat", Sans-serif;font-size:24px;font-weight:300;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box__front .elementor-flip-box__layer__description{color:#ffffff;font-size:16px;font-weight:200;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box__button{margin-center:0;font-family:"Montserrat", Sans-serif;font-size:14px;font-weight:400;border-width:1px;border-radius:4px;}.elementor-21 .elementor-element.elementor-element-49ef4825 > .elementor-widget-container{box-shadow:0px 0px 20px 0px rgba(0,0,0,0.2);}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box__front{background-image:url("images/shutterstock_1069117655-scaled.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box__front .elementor-flip-box__layer__overlay{background-color:#20111157;text-align:left;justify-content:flex-end;}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box__back{background-image:url("images/shutterstock_1069117655-scaled.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box__back .elementor-flip-box__layer__overlay{background-color:#54595F96;text-align:center;}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box{height:450px;}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box__layer, .elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box__layer__overlay{border-radius:4px;}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box__front .elementor-flip-box__layer__title{margin-bottom:15px;color:#ffffff;font-family:"Montserrat", Sans-serif;font-size:24px;font-weight:300;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box__front .elementor-flip-box__layer__description{color:#ffffff;font-size:16px;font-weight:200;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box__button{margin-center:0;font-family:"Montserrat", Sans-serif;font-size:14px;font-weight:400;border-width:1px;border-radius:4px;}.elementor-21 .elementor-element.elementor-element-6939431c > .elementor-widget-container{box-shadow:0px 0px 20px 0px rgba(0,0,0,0.2);}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box__front{background-image:url("images/aw.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box__front .elementor-flip-box__layer__overlay{background-color:#20111157;text-align:left;justify-content:flex-end;}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box__back{background-image:url("images/aw.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box__back .elementor-flip-box__layer__overlay{background-color:#54595F96;text-align:center;}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box{height:450px;}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box__layer, .elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box__layer__overlay{border-radius:4px;}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box__front .elementor-flip-box__layer__title{margin-bottom:15px;color:#ffffff;font-family:"Montserrat", Sans-serif;font-size:24px;font-weight:300;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box__front .elementor-flip-box__layer__description{color:#ffffff;font-size:16px;font-weight:200;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box__button{margin-center:0;font-family:"Montserrat", Sans-serif;font-size:14px;font-weight:400;border-width:1px;border-radius:4px;}.elementor-21 .elementor-element.elementor-element-524b348f > .elementor-widget-container{box-shadow:0px 0px 20px 0px rgba(0,0,0,0.2);}.elementor-21 .elementor-element.elementor-element-85c4985 .elementor-button{font-family:"Montserrat", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:var( --e-global-color-3288139 );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-85c4985 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-a44849e > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-a44849e{margin-top:150px;margin-bottom:150px;}.elementor-21 .elementor-element.elementor-element-905a3b4 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-4b0daef{text-align:left;}.elementor-21 .elementor-element.elementor-element-4b0daef .elementor-heading-title{color:var( --e-global-color-primary );font-family:"Montaga", Sans-serif;font-size:40px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-4b0daef > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-1dc9c98{color:var( --e-global-color-text );font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-f225074 > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-f225074{margin-top:30px;margin-bottom:50px;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box__front{background-image:url("images/27.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box__front .elementor-flip-box__layer__overlay{background-color:#20111157;text-align:left;justify-content:flex-end;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box__back{background-image:url("images/27.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box__back .elementor-flip-box__layer__overlay{background-color:#54595F96;text-align:center;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box{height:450px;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box__layer, .elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box__layer__overlay{border-radius:4px;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box__front .elementor-flip-box__layer__title{margin-bottom:15px;color:#ffffff;font-family:"Montserrat", Sans-serif;font-size:24px;font-weight:300;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box__front .elementor-flip-box__layer__description{color:#ffffff;font-size:16px;font-weight:200;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box__button{margin-center:0;font-family:"Montserrat", Sans-serif;font-size:14px;font-weight:400;border-width:1px;border-radius:4px;}.elementor-21 .elementor-element.elementor-element-869a438 > .elementor-widget-container{box-shadow:0px 0px 20px 0px rgba(0,0,0,0.2);}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box__front{background-image:url("images/35.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box__front .elementor-flip-box__layer__overlay{background-color:#20111157;text-align:left;justify-content:flex-end;}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box__back{background-image:url("images/35.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box__back .elementor-flip-box__layer__overlay{background-color:#54595F96;text-align:center;}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box{height:450px;}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box__layer, .elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box__layer__overlay{border-radius:4px;}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box__front .elementor-flip-box__layer__title{margin-bottom:15px;color:#ffffff;font-family:"Montserrat", Sans-serif;font-size:24px;font-weight:300;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box__front .elementor-flip-box__layer__description{color:#ffffff;font-size:16px;font-weight:200;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box__button{margin-center:0;font-family:"Montserrat", Sans-serif;font-size:14px;font-weight:400;border-width:1px;border-radius:4px;}.elementor-21 .elementor-element.elementor-element-4159f63 > .elementor-widget-container{box-shadow:0px 0px 20px 0px rgba(0,0,0,0.2);}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box__front{background-image:url("images/26.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box__front .elementor-flip-box__layer__overlay{background-color:#20111157;text-align:left;justify-content:flex-end;}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box__back{background-image:url("images/26.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box__back .elementor-flip-box__layer__overlay{background-color:#54595F96;text-align:center;}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box{height:450px;}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box__layer, .elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box__layer__overlay{border-radius:4px;}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box__front .elementor-flip-box__layer__title{margin-bottom:15px;color:#ffffff;font-family:"Montserrat", Sans-serif;font-size:24px;font-weight:300;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box__front .elementor-flip-box__layer__description{color:#ffffff;font-size:16px;font-weight:200;text-transform:capitalize;}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box__button{margin-center:0;font-family:"Montserrat", Sans-serif;font-size:14px;font-weight:400;border-width:1px;border-radius:4px;}.elementor-21 .elementor-element.elementor-element-bdb66a3 > .elementor-widget-container{box-shadow:0px 0px 20px 0px rgba(0,0,0,0.2);}.elementor-21 .elementor-element.elementor-element-d9a15b0 .elementor-button{font-family:"Montserrat", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:var( --e-global-color-3288139 );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-d9a15b0 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-ac3da25 > .elementor-background-overlay{background-color:#B4CEC9;opacity:0.1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-ac3da25{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:120px 40px 0px 40px;}.elementor-21 .elementor-element.elementor-element-cbe4617{text-align:center;}.elementor-21 .elementor-element.elementor-element-cbe4617 .elementor-heading-title{color:var( --e-global-color-6290da1 );font-family:"Montaga", Sans-serif;font-size:36px;font-weight:500;}.elementor-21 .elementor-element.elementor-element-b7159d4 > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-b7159d4 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-b7159d4{padding:40px 0px 0px 0px;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-8c6ca5e.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-8c6ca5e.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-8c6ca5e:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-21 .elementor-element.elementor-element-8c6ca5e > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-8c6ca5e > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 30px 0px 30px;--e-column-margin-right:30px;--e-column-margin-left:30px;padding:30px 30px 030px 30px;}.elementor-21 .elementor-element.elementor-element-8c6ca5e > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-125ee25{text-align:center;}.elementor-21 .elementor-element.elementor-element-125ee25 .elementor-heading-title{color:var( --e-global-color-6290da1 );font-family:"Montaga", Sans-serif;font-size:12px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-44509fb{text-align:center;}.elementor-21 .elementor-element.elementor-element-44509fb .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:25px;font-weight:600;}.elementor-21 .elementor-element.elementor-element-44509fb > .elementor-widget-container{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-fb71695{text-align:center;color:var( --e-global-color-primary );font-family:"Nunito", Sans-serif;font-size:16px;font-weight:300;line-height:1.6em;}.elementor-21 .elementor-element.elementor-element-fb71695 > .elementor-widget-container{margin:20px 20px -15px 20px;background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-d4d6fcd .elementor-button{font-family:"Trebuchet MS", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:var( --e-global-color-3288139 );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-d4d6fcd > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-2b08251.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-2b08251.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-2b08251:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-21 .elementor-element.elementor-element-2b08251 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-2b08251 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 30px 0px 30px;--e-column-margin-right:30px;--e-column-margin-left:30px;padding:30px 30px 030px 30px;}.elementor-21 .elementor-element.elementor-element-2b08251 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-31845af{text-align:center;}.elementor-21 .elementor-element.elementor-element-31845af .elementor-heading-title{color:var( --e-global-color-6290da1 );font-family:"Montaga", Sans-serif;font-size:12px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-7c570ec{text-align:center;}.elementor-21 .elementor-element.elementor-element-7c570ec .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:25px;font-weight:600;}.elementor-21 .elementor-element.elementor-element-7c570ec > .elementor-widget-container{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-9d08a1a{text-align:center;color:var( --e-global-color-primary );font-family:"Nunito", Sans-serif;font-size:16px;font-weight:300;line-height:1.6em;}.elementor-21 .elementor-element.elementor-element-9d08a1a > .elementor-widget-container{margin:20px 20px -15px 20px;background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-19a85df .elementor-button{font-family:"Trebuchet MS", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:var( --e-global-color-3288139 );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-19a85df > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-b56bed3.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-b56bed3.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-b56bed3:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-21 .elementor-element.elementor-element-b56bed3 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-b56bed3 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 30px 0px 30px;--e-column-margin-right:30px;--e-column-margin-left:30px;padding:30px 30px 030px 30px;}.elementor-21 .elementor-element.elementor-element-b56bed3 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-696aa21{text-align:center;}.elementor-21 .elementor-element.elementor-element-696aa21 .elementor-heading-title{color:var( --e-global-color-6290da1 );font-family:"Montaga", Sans-serif;font-size:12px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-92ef169{text-align:center;}.elementor-21 .elementor-element.elementor-element-92ef169 .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:25px;font-weight:600;}.elementor-21 .elementor-element.elementor-element-92ef169 > .elementor-widget-container{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-3354459{text-align:center;color:var( --e-global-color-primary );font-family:"Nunito", Sans-serif;font-size:16px;font-weight:300;line-height:1.6em;}.elementor-21 .elementor-element.elementor-element-3354459 > .elementor-widget-container{margin:20px 20px -15px 20px;background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-1f12877 .elementor-button{font-family:"Trebuchet MS", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:var( --e-global-color-3288139 );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-1f12877 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-199dfe6 > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-199dfe6 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-199dfe6{margin-top:0px;margin-bottom:80px;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-2d82be5.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-2d82be5.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-2d82be5 > .elementor-element-populated{margin:0px 30px 0px 30px;--e-column-margin-right:30px;--e-column-margin-left:30px;}.elementor-21 .elementor-element.elementor-element-b0a52d0 img{height:300px;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-3bc4cb5.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-3bc4cb5.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-3bc4cb5 > .elementor-element-populated{margin:0px 30px 0px 30px;--e-column-margin-right:30px;--e-column-margin-left:30px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-c40eb20 img{height:300px;}.elementor-21 .elementor-element.elementor-element-3067735 > .elementor-element-populated{margin:0px 30px 0px 30px;--e-column-margin-right:30px;--e-column-margin-left:30px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-b36b266 img{height:300px;}.elementor-21 .elementor-element.elementor-element-6d2b62c .elementor-button{font-family:"Trebuchet MS", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:var( --e-global-color-3288139 );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-6d2b62c > .elementor-widget-container{padding:50px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-008ae63 > .elementor-background-overlay{background-color:#B4CEC9;opacity:0.1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-008ae63{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 40px 0px 40px;}.elementor-21 .elementor-element.elementor-element-56029e1{text-align:center;}.elementor-21 .elementor-element.elementor-element-56029e1 .elementor-heading-title{color:var( --e-global-color-6290da1 );font-family:"Montaga", Sans-serif;font-size:36px;font-weight:500;}.elementor-21 .elementor-element.elementor-element-f1d516c > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-f1d516c > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-f1d516c{padding:40px 0px 0px 0px;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-26fed08.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-26fed08.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-26fed08:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-21 .elementor-element.elementor-element-26fed08 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-26fed08 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 30px 0px 0px;--e-column-margin-right:30px;--e-column-margin-left:0px;padding:50px 50px 50px 50px;}.elementor-21 .elementor-element.elementor-element-26fed08 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-23c54de{text-align:center;}.elementor-21 .elementor-element.elementor-element-23c54de .elementor-heading-title{color:var( --e-global-color-6290da1 );font-family:"Montaga", Sans-serif;font-size:12px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-2f01525{text-align:center;}.elementor-21 .elementor-element.elementor-element-2f01525 .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:25px;font-weight:600;}.elementor-21 .elementor-element.elementor-element-2f01525 > .elementor-widget-container{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-84bd2b1{text-align:center;color:var( --e-global-color-primary );font-family:"Nunito", Sans-serif;font-size:16px;font-weight:300;line-height:1.6em;}.elementor-21 .elementor-element.elementor-element-84bd2b1 > .elementor-widget-container{margin:20px 20px -15px 20px;background-color:var( --e-global-color-3288139 );}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-48f7929.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-48f7929.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-48f7929:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-21 .elementor-element.elementor-element-48f7929 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-48f7929 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 30px 0px 0px;--e-column-margin-right:30px;--e-column-margin-left:0px;padding:50px 50px 50px 50px;}.elementor-21 .elementor-element.elementor-element-48f7929 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-98105aa{text-align:center;}.elementor-21 .elementor-element.elementor-element-98105aa .elementor-heading-title{color:var( --e-global-color-6290da1 );font-family:"Montaga", Sans-serif;font-size:12px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-0b8ea7b{text-align:center;}.elementor-21 .elementor-element.elementor-element-0b8ea7b .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:25px;font-weight:600;}.elementor-21 .elementor-element.elementor-element-0b8ea7b > .elementor-widget-container{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-3fef655{text-align:center;color:var( --e-global-color-primary );font-family:"Nunito", Sans-serif;font-size:16px;font-weight:300;line-height:1.6em;}.elementor-21 .elementor-element.elementor-element-3fef655 > .elementor-widget-container{margin:20px 20px -15px 20px;background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-0476566 .elementor-button{font-family:"Trebuchet MS", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:var( --e-global-color-3288139 );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-0476566 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-1391465 > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-1391465 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-1391465{margin-top:0px;margin-bottom:80px;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-71ad24c.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-71ad24c.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-71ad24c > .elementor-element-populated{margin:0px 30px 0px 0px;--e-column-margin-right:30px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-ee19471 img{height:300px;}.elementor-21 .elementor-element.elementor-element-9bf3220 > .elementor-element-populated{margin:0px 0px 0px 30px;--e-column-margin-right:0px;--e-column-margin-left:30px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-8bac91f img{height:300px;}.elementor-21 .elementor-element.elementor-element-b258ad6 > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-b258ad6 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-b258ad6{padding:40px 0px 0px 0px;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-3dd1e83.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-3dd1e83.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-3dd1e83:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-21 .elementor-element.elementor-element-3dd1e83 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-3dd1e83 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 30px 0px 0px;--e-column-margin-right:30px;--e-column-margin-left:0px;padding:50px 50px 50px 50px;}.elementor-21 .elementor-element.elementor-element-3dd1e83 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-d9d0e8a{text-align:center;}.elementor-21 .elementor-element.elementor-element-d9d0e8a .elementor-heading-title{color:var( --e-global-color-6290da1 );font-family:"Montaga", Sans-serif;font-size:12px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-c409304{text-align:center;}.elementor-21 .elementor-element.elementor-element-c409304 .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:25px;font-weight:600;}.elementor-21 .elementor-element.elementor-element-c409304 > .elementor-widget-container{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-410414b{text-align:center;color:var( --e-global-color-primary );font-family:"Nunito", Sans-serif;font-size:16px;font-weight:300;line-height:1.6em;}.elementor-21 .elementor-element.elementor-element-410414b > .elementor-widget-container{margin:20px 20px -15px 20px;background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-266dbf4 .elementor-button{font-family:"Trebuchet MS", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:var( --e-global-color-3288139 );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-266dbf4 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-2708a48.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-2708a48.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-2708a48:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-21 .elementor-element.elementor-element-2708a48 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-2708a48 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 30px 0px 0px;--e-column-margin-right:30px;--e-column-margin-left:0px;padding:50px 50px 50px 50px;}.elementor-21 .elementor-element.elementor-element-2708a48 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-abff755{text-align:center;}.elementor-21 .elementor-element.elementor-element-abff755 .elementor-heading-title{color:var( --e-global-color-6290da1 );font-family:"Montaga", Sans-serif;font-size:12px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-f6d90af{text-align:center;}.elementor-21 .elementor-element.elementor-element-f6d90af .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:25px;font-weight:600;}.elementor-21 .elementor-element.elementor-element-f6d90af > .elementor-widget-container{background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-270fc0f{text-align:center;color:var( --e-global-color-primary );font-family:"Nunito", Sans-serif;font-size:16px;font-weight:300;line-height:1.6em;}.elementor-21 .elementor-element.elementor-element-270fc0f > .elementor-widget-container{margin:20px 20px -15px 20px;background-color:var( --e-global-color-3288139 );}.elementor-21 .elementor-element.elementor-element-b9d32ed .elementor-button{font-family:"Trebuchet MS", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:var( --e-global-color-3288139 );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-b9d32ed > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-c17a0dc > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-c17a0dc > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-c17a0dc{padding:0px 0px 80px 0px;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-091273e.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-091273e.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-091273e > .elementor-element-populated{margin:0px 30px 0px 0px;--e-column-margin-right:30px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-6fb46b4 img{height:300px;}.elementor-21 .elementor-element.elementor-element-091958d > .elementor-element-populated{margin:0px 0px 0px 30px;--e-column-margin-right:0px;--e-column-margin-left:30px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-396198b img{height:300px;}.elementor-21 .elementor-element.elementor-element-547062a .elementor-button{font-family:"Trebuchet MS", Sans-serif;font-size:12px;font-weight:400;letter-spacing:1.2px;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:var( --e-global-color-3288139 );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-text );border-radius:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-547062a > .elementor-widget-container{padding:2px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-f91a08e > .elementor-background-overlay{background-color:var( --e-global-color-3288139 );opacity:0.1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-f91a08e{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:040px 80px 020px 80px;}.elementor-21 .elementor-element.elementor-element-0ab2090{text-align:center;}.elementor-21 .elementor-element.elementor-element-0ab2090 .elementor-heading-title{color:var( --e-global-color-primary );font-family:"Montaga", Sans-serif;font-size:40px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-0ab2090 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-25b2032 > .elementor-container{max-width:1100px;}.elementor-21 .elementor-element.elementor-element-25b2032 > .elementor-background-overlay{background-color:var( --e-global-color-3288139 );opacity:0.1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-21 .elementor-element.elementor-element-25b2032{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:100px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-2471701 > .elementor-element-populated{margin:0px 40px 0px 0px;--e-column-margin-right:40px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-a63eb74{text-align:left;}.elementor-21 .elementor-element.elementor-element-a63eb74 .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:18px;font-weight:100;text-transform:none;line-height:1em;}.elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-header{color:var( --e-global-color-secondary );font-family:"Montaga", Sans-serif;font-size:14px;font-weight:200;letter-spacing:0.7px;-webkit-text-stroke-width:0px;stroke-width:0px;-webkit-text-stroke-color:#000;stroke:#000;}.elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-price{color:#000000;font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:200;letter-spacing:0.7px;}.elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-description{color:#4f4f4f;font-family:"Roboto", Sans-serif;font-size:16px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-separator{border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:var( --e-global-color-6290da1 );}body.rtl .elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-image{padding-left:calc(20px/2);}body.rtl .elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-image + .elementor-price-list-text{padding-right:calc(20px/2);}body:not(.rtl) .elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-image{padding-right:calc(20px/2);}body:not(.rtl) .elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-image + .elementor-price-list-text{padding-left:calc(20px/2);}.elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list li:not(:last-child){margin-bottom:10px;}.elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-item{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-055357e{text-align:left;}.elementor-21 .elementor-element.elementor-element-055357e .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:18px;font-weight:100;text-transform:none;line-height:1em;}.elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-header{color:var( --e-global-color-secondary );font-family:"Montaga", Sans-serif;font-size:14px;font-weight:200;letter-spacing:0.7px;-webkit-text-stroke-width:0px;stroke-width:0px;-webkit-text-stroke-color:#000;stroke:#000;}.elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-price{color:#000000;font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:200;letter-spacing:0.7px;}.elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-description{color:#4f4f4f;font-family:"Roboto", Sans-serif;font-size:16px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-separator{border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:var( --e-global-color-6290da1 );}body.rtl .elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-image{padding-left:calc(20px/2);}body.rtl .elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-image + .elementor-price-list-text{padding-right:calc(20px/2);}body:not(.rtl) .elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-image{padding-right:calc(20px/2);}body:not(.rtl) .elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-image + .elementor-price-list-text{padding-left:calc(20px/2);}.elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list li:not(:last-child){margin-bottom:10px;}.elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-item{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-94402f6 > .elementor-element-populated{margin:0px 40px 0px 0px;--e-column-margin-right:40px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-c0fa6b3{text-align:left;}.elementor-21 .elementor-element.elementor-element-c0fa6b3 .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:18px;font-weight:100;text-transform:none;line-height:1em;}.elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-header{color:var( --e-global-color-secondary );font-family:"Montaga", Sans-serif;font-size:14px;font-weight:200;letter-spacing:0.7px;-webkit-text-stroke-width:0px;stroke-width:0px;-webkit-text-stroke-color:#000;stroke:#000;}.elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-price{color:#000000;font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:200;letter-spacing:0.7px;}.elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-description{color:#4f4f4f;font-family:"Roboto", Sans-serif;font-size:16px;font-weight:300;}.elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-separator{border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:var( --e-global-color-6290da1 );}body.rtl .elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-image{padding-left:calc(20px/2);}body.rtl .elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-image + .elementor-price-list-text{padding-right:calc(20px/2);}body:not(.rtl) .elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-image{padding-right:calc(20px/2);}body:not(.rtl) .elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-image + .elementor-price-list-text{padding-left:calc(20px/2);}.elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list li:not(:last-child){margin-bottom:10px;}.elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-item{align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-9494870{text-align:left;}.elementor-21 .elementor-element.elementor-element-9494870 .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:18px;font-weight:100;text-transform:none;line-height:1em;}:root{--page-title-display:none;}@media(max-width:1024px) and (min-width:768px){.elementor-21 .elementor-element.elementor-element-241e3d3a{width:40%;}.elementor-21 .elementor-element.elementor-element-7105220f{width:60%;}}@media(max-width:1024px){.elementor-21 .elementor-element.elementor-element-40e55b46 > .elementor-container{min-height:800px;}.elementor-21 .elementor-element.elementor-element-40e55b46{padding:0px 25px 0px 25px;}.elementor-21 .elementor-element.elementor-element-031e3f6 .elementor-heading-title{font-size:45px;line-height:1.2em;}.elementor-21 .elementor-element.elementor-element-031e3f6 > .elementor-widget-container{margin:0px 0px -20px 0px;}.elementor-21 .elementor-element.elementor-element-2ac0b8a7 > .elementor-container{max-width:1200px;}.elementor-21 .elementor-element.elementor-element-2ac0b8a7{margin-top:120px;margin-bottom:80px;padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-241e3d3a > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-2f7f2ced{text-align:center;}.elementor-21 .elementor-element.elementor-element-2f7f2ced img{max-width:100%;}.elementor-21 .elementor-element.elementor-element-7105220f > .elementor-element-populated{padding:25px 25px 25px 25px;}.elementor-21 .elementor-element.elementor-element-6285fdb6 .elementor-heading-title{font-size:25px;line-height:1.2em;}.elementor-21 .elementor-element.elementor-element-6285fdb6 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-7d785a6{font-size:14px;}.elementor-21 .elementor-element.elementor-element-7c15c1a0{padding:30px 30px 30px 30px;}.elementor-21 .elementor-element.elementor-element-2cd4e8ac .elementor-heading-title{font-size:30px;line-height:1.2em;}.elementor-21 .elementor-element.elementor-element-2cd4e8ac > .elementor-widget-container{margin:0px 0px -20px 0px;}.elementor-21 .elementor-element.elementor-element-7f9175ab .elementor-heading-title{font-size:14px;}.elementor-21 .elementor-element.elementor-element-7f9175ab > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-8783912 > .elementor-widget-container{padding:15px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-115fab2{font-size:14px;}.elementor-21 .elementor-element.elementor-element-6c26ec2 > .elementor-container{min-height:200px;}.elementor-21 .elementor-element.elementor-element-6c26ec2{margin-top:50px;margin-bottom:50px;}.elementor-21 .elementor-element.elementor-element-7892797 .elementor-heading-title{font-size:30px;line-height:1.2em;}.elementor-21 .elementor-element.elementor-element-7892797 > .elementor-widget-container{margin:0px 0px -20px 0px;}.elementor-21 .elementor-element.elementor-element-428e06de{margin-top:80px;margin-bottom:80px;}.elementor-21 .elementor-element.elementor-element-37fa1adb > .elementor-element-populated{padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-4670517{text-align:left;}.elementor-21 .elementor-element.elementor-element-4670517 .elementor-heading-title{font-size:30px;line-height:1.2em;}.elementor-21 .elementor-element.elementor-element-4670517 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-e060d1b{font-size:14px;}.elementor-21 .elementor-element.elementor-element-56029447{margin-top:0px;margin-bottom:40px;}.elementor-21 .elementor-element.elementor-element-49068b34 > .elementor-element-populated{padding:5px 5px 5px 5px;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box{height:333px;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box__front .elementor-flip-box__layer__title{font-size:20px;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box__front .elementor-flip-box__layer__description{font-size:14px;}.elementor-21 .elementor-element.elementor-element-933df5a > .elementor-element-populated{padding:5px 5px 5px 5px;}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box{height:333px;}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box__front .elementor-flip-box__layer__title{font-size:20px;}.elementor-21 .elementor-element.elementor-element-6939431c .elementor-flip-box__front .elementor-flip-box__layer__description{font-size:14px;}.elementor-21 .elementor-element.elementor-element-2f246d7d > .elementor-element-populated{padding:5px 5px 5px 5px;}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box{height:333px;}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box__front .elementor-flip-box__layer__title{font-size:20px;}.elementor-21 .elementor-element.elementor-element-524b348f .elementor-flip-box__front .elementor-flip-box__layer__description{font-size:14px;}.elementor-21 .elementor-element.elementor-element-a44849e{margin-top:80px;margin-bottom:80px;}.elementor-21 .elementor-element.elementor-element-905a3b4 > .elementor-element-populated{padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-4b0daef{text-align:left;}.elementor-21 .elementor-element.elementor-element-4b0daef .elementor-heading-title{font-size:30px;line-height:1.2em;}.elementor-21 .elementor-element.elementor-element-4b0daef > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-1dc9c98{font-size:14px;}.elementor-21 .elementor-element.elementor-element-f225074{margin-top:0px;margin-bottom:40px;}.elementor-21 .elementor-element.elementor-element-b14c60b > .elementor-element-populated{padding:5px 5px 5px 5px;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box{height:333px;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box__front .elementor-flip-box__layer__title{font-size:20px;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box__front .elementor-flip-box__layer__description{font-size:14px;}.elementor-21 .elementor-element.elementor-element-d8b3d3d > .elementor-element-populated{padding:5px 5px 5px 5px;}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box{height:333px;}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box__front .elementor-flip-box__layer__title{font-size:20px;}.elementor-21 .elementor-element.elementor-element-4159f63 .elementor-flip-box__front .elementor-flip-box__layer__description{font-size:14px;}.elementor-21 .elementor-element.elementor-element-e463b4f > .elementor-element-populated{padding:5px 5px 5px 5px;}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box{height:333px;}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box__front .elementor-flip-box__layer__title{font-size:20px;}.elementor-21 .elementor-element.elementor-element-bdb66a3 .elementor-flip-box__front .elementor-flip-box__layer__description{font-size:14px;}.elementor-21 .elementor-element.elementor-element-8c6ca5e > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 5px 5px 05px;}.elementor-21 .elementor-element.elementor-element-2b08251 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 5px 5px 05px;}.elementor-21 .elementor-element.elementor-element-b56bed3 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 5px 5px 05px;}.elementor-21 .elementor-element.elementor-element-2d82be5 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-3bc4cb5 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-3067735 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-6d2b62c > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-26fed08 > .elementor-element-populated{padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-48f7929 > .elementor-element-populated{padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-9bf3220 > .elementor-element-populated{margin:0px 30px 0px 0px;--e-column-margin-right:30px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-3dd1e83 > .elementor-element-populated{padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-2708a48 > .elementor-element-populated{padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-091958d > .elementor-element-populated{margin:0px 30px 0px 0px;--e-column-margin-right:30px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-0ab2090{text-align:center;}.elementor-21 .elementor-element.elementor-element-0ab2090 .elementor-heading-title{font-size:30px;line-height:1.2em;}.elementor-21 .elementor-element.elementor-element-0ab2090 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-25b2032{padding:40px 40px 40px 40px;}.elementor-21 .elementor-element.elementor-element-2471701 > .elementor-element-populated{margin:0px 015px 0px 0px;--e-column-margin-right:015px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-a63eb74 .elementor-heading-title{font-size:18px;}.elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-header{font-size:14px;}.elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-description{font-size:14px;}.elementor-21 .elementor-element.elementor-element-055357e .elementor-heading-title{font-size:18px;}.elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-header{font-size:14px;}.elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-description{font-size:14px;}.elementor-21 .elementor-element.elementor-element-94402f6 > .elementor-element-populated{margin:0px 20px 0px 0px;--e-column-margin-right:20px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-c0fa6b3 .elementor-heading-title{font-size:18px;}.elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-header{font-size:14px;}.elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-description{font-size:14px;}.elementor-21 .elementor-element.elementor-element-9494870 .elementor-heading-title{font-size:16px;}}@media(max-width:767px){.elementor-21 .elementor-element.elementor-element-40e55b46 > .elementor-container{min-height:612px;}.elementor-21 .elementor-element.elementor-element-40e55b46{padding:05px 25px 0px 25px;}.elementor-21 .elementor-element.elementor-element-2a694d3c > .elementor-element-populated{padding:25px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-433414e6{text-align:left;font-size:16px;}.elementor-21 .elementor-element.elementor-element-031e3f6{text-align:left;}.elementor-21 .elementor-element.elementor-element-031e3f6 .elementor-heading-title{font-size:35px;}.elementor-21 .elementor-element.elementor-element-031e3f6 > .elementor-widget-container{margin:0px 0px -25px 0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-2ac0b8a7{margin-top:50px;margin-bottom:0px;padding:0% 5% 0% 5%;}.elementor-21 .elementor-element.elementor-element-7105220f > .elementor-element-populated{padding:50px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-6285fdb6{text-align:left;}.elementor-21 .elementor-element.elementor-element-6285fdb6 .elementor-heading-title{font-size:32px;line-height:1em;}.elementor-21 .elementor-element.elementor-element-6285fdb6 > .elementor-widget-container{margin:0px 0px -25px 0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-7d785a6{font-size:16px;}.elementor-21 .elementor-element.elementor-element-7d785a6 > .elementor-widget-container{margin:10px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-7c15c1a0{margin-top:50px;margin-bottom:0px;padding:10px 10px 10px 10px;}.elementor-21 .elementor-element.elementor-element-2cd4e8ac{text-align:center;}.elementor-21 .elementor-element.elementor-element-2cd4e8ac .elementor-heading-title{font-size:27px;line-height:1em;}.elementor-21 .elementor-element.elementor-element-2cd4e8ac > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-7f9175ab{text-align:center;}.elementor-21 .elementor-element.elementor-element-7f9175ab .elementor-heading-title{font-size:16px;line-height:1.5em;}.elementor-21 .elementor-element.elementor-element-7f9175ab > .elementor-widget-container{margin:10px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-8783912 .swiper-slide{height:300px;}.elementor-21 .elementor-element.elementor-element-115fab2{font-size:16px;}.elementor-21 .elementor-element.elementor-element-6c26ec2{margin-top:50px;margin-bottom:0px;padding:0% 5% 0% 5%;}.elementor-21 .elementor-element.elementor-element-7892797{text-align:center;}.elementor-21 .elementor-element.elementor-element-7892797 .elementor-heading-title{font-size:30px;}.elementor-21 .elementor-element.elementor-element-7892797 > .elementor-widget-container{margin:0px 0px -25px 0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-428e06de{margin-top:80px;margin-bottom:80px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-37fa1adb > .elementor-element-populated{padding:10px 10px 10px 10px;}.elementor-21 .elementor-element.elementor-element-4670517{text-align:left;}.elementor-21 .elementor-element.elementor-element-4670517 .elementor-heading-title{font-size:27px;line-height:1em;}.elementor-21 .elementor-element.elementor-element-4670517 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-e060d1b{font-size:14px;}.elementor-21 .elementor-element.elementor-element-e060d1b > .elementor-widget-container{margin:10px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-49ef4825 .elementor-flip-box{height:333px;}.elementor-21 .elementor-element.elementor-element-a44849e{margin-top:80px;margin-bottom:80px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-905a3b4 > .elementor-element-populated{padding:10px 10px 10px 10px;}.elementor-21 .elementor-element.elementor-element-4b0daef{text-align:left;}.elementor-21 .elementor-element.elementor-element-4b0daef .elementor-heading-title{font-size:27px;line-height:1em;}.elementor-21 .elementor-element.elementor-element-4b0daef > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-1dc9c98{font-size:14px;}.elementor-21 .elementor-element.elementor-element-1dc9c98 > .elementor-widget-container{margin:10px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-869a438 .elementor-flip-box{height:333px;}.elementor-21 .elementor-element.elementor-element-ac3da25{margin-top:0px;margin-bottom:0px;padding:030% 5% 0% 5%;}.elementor-21 .elementor-element.elementor-element-cbe4617 .elementor-heading-title{font-size:30px;}.elementor-21 .elementor-element.elementor-element-8c6ca5e > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-2b08251 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-b56bed3 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-199dfe6{padding:50px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-2d82be5 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-3bc4cb5 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-3067735 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-008ae63{margin-top:0px;margin-bottom:0px;padding:030% 5% 0% 5%;}.elementor-21 .elementor-element.elementor-element-56029e1 .elementor-heading-title{font-size:30px;}.elementor-21 .elementor-element.elementor-element-26fed08 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 20px 20px 20px;}.elementor-21 .elementor-element.elementor-element-48f7929 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:60px 0px 020px 0px;}.elementor-21 .elementor-element.elementor-element-1391465{padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-71ad24c > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-9bf3220 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-3dd1e83 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 0px 20px 0px;}.elementor-21 .elementor-element.elementor-element-2708a48 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 0px 20px 0px;}.elementor-21 .elementor-element.elementor-element-091273e > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-091958d > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-f91a08e{margin-top:0px;margin-bottom:0px;padding:20% 0% 0% 0%;}.elementor-21 .elementor-element.elementor-element-0ab2090{text-align:center;}.elementor-21 .elementor-element.elementor-element-0ab2090 .elementor-heading-title{font-size:27px;line-height:1em;}.elementor-21 .elementor-element.elementor-element-0ab2090 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-25b2032{margin-top:0px;margin-bottom:0px;padding:10% 10% 10% 10%;}.elementor-21 .elementor-element.elementor-element-2471701 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-a63eb74 .elementor-heading-title{font-size:22px;}.elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-header{font-size:14px;}.elementor-21 .elementor-element.elementor-element-845cf80 .elementor-price-list-price{font-size:16px;}.elementor-21 .elementor-element.elementor-element-055357e .elementor-heading-title{font-size:22px;}.elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-header{font-size:14px;}.elementor-21 .elementor-element.elementor-element-9f2d9b3 .elementor-price-list-price{font-size:16px;}.elementor-21 .elementor-element.elementor-element-94402f6 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-21 .elementor-element.elementor-element-c0fa6b3 .elementor-heading-title{font-size:22px;}.elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-header{font-size:14px;}.elementor-21 .elementor-element.elementor-element-2c5e550 .elementor-price-list-price{font-size:16px;}.elementor-21 .elementor-element.elementor-element-9494870 .elementor-heading-title{font-size:14px;}}
+.elementor-349 .elementor-element.elementor-element-1e8a440d > .elementor-container{max-width:1400px;min-height:55px;}.elementor-349 .elementor-element.elementor-element-1e8a440d > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-349 .elementor-element.elementor-element-1e8a440d > .elementor-background-overlay{background-color:var( --e-global-color-primary );opacity:1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-349 .elementor-element.elementor-element-1e8a440d{border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-7a3df47 );transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-bc-flex-widget .elementor-349 .elementor-element.elementor-element-4ea5a75.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-349 .elementor-element.elementor-element-4ea5a75.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-349 .elementor-element.elementor-element-4ea5a75 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-349 .elementor-element.elementor-element-f2506b2{text-align:center;}.elementor-349 .elementor-element.elementor-element-f2506b2 > .elementor-widget-container{margin:-15px -15px -15px -15px;}.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-menu-toggle{margin:0 auto;background-color:rgba(0,0,0,0);}.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu .elementor-item{font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:400;}.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-3288139 );fill:var( --e-global-color-3288139 );}.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-6290da1 );fill:var( --e-global-color-6290da1 );}.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-6290da1 );}.elementor-349 .elementor-element.elementor-element-387a2bf2 .e--pointer-framed .elementor-item:before,
+					.elementor-349 .elementor-element.elementor-element-387a2bf2 .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-6290da1 );}.elementor-349 .elementor-element.elementor-element-387a2bf2 .e--pointer-framed .elementor-item:before{border-width:3px;}.elementor-349 .elementor-element.elementor-element-387a2bf2 .e--pointer-framed.e--animation-draw .elementor-item:before{border-width:0 0 3px 3px;}.elementor-349 .elementor-element.elementor-element-387a2bf2 .e--pointer-framed.e--animation-draw .elementor-item:after{border-width:3px 3px 0 0;}.elementor-349 .elementor-element.elementor-element-387a2bf2 .e--pointer-framed.e--animation-corners .elementor-item:before{border-width:3px 0 0 3px;}.elementor-349 .elementor-element.elementor-element-387a2bf2 .e--pointer-framed.e--animation-corners .elementor-item:after{border-width:0 3px 3px 0;}.elementor-349 .elementor-element.elementor-element-387a2bf2 .e--pointer-underline .elementor-item:after,
+					 .elementor-349 .elementor-element.elementor-element-387a2bf2 .e--pointer-overline .elementor-item:before,
+					 .elementor-349 .elementor-element.elementor-element-387a2bf2 .e--pointer-double-line .elementor-item:before,
+					 .elementor-349 .elementor-element.elementor-element-387a2bf2 .e--pointer-double-line .elementor-item:after{height:3px;}.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--dropdown a:hover,
+					.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--dropdown a.highlighted{background-color:var( --e-global-color-7a3df47 );}.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--dropdown a.elementor-item-active{color:var( --e-global-color-6290da1 );}.elementor-349 .elementor-element.elementor-element-387a2bf2 div.elementor-menu-toggle{color:var( --e-global-color-text );}.elementor-349 .elementor-element.elementor-element-387a2bf2 div.elementor-menu-toggle svg{fill:var( --e-global-color-text );}.elementor-349 .elementor-element.elementor-element-1d1a4a0{text-align:right;}.elementor-349 .elementor-element.elementor-element-1d1a4a0 .elementor-heading-title{color:var( --e-global-color-3288139 );font-family:"Montserrat", Sans-serif;font-size:14px;font-weight:300;}@media(max-width:1024px){.elementor-349 .elementor-element.elementor-element-1e8a440d > .elementor-container{max-width:1200px;min-height:0px;}.elementor-349 .elementor-element.elementor-element-1e8a440d{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--dropdown a{padding-left:0px;padding-right:0px;}.elementor-349 .elementor-element.elementor-element-387a2bf2{--nav-menu-icon-size:50px;}.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-menu-toggle{border-width:0px;border-radius:13px;}}@media(max-width:767px){.elementor-349 .elementor-element.elementor-element-1e8a440d{padding:30px 20px 30px 20px;}.elementor-349 .elementor-element.elementor-element-4ea5a75{width:25%;}.elementor-349 .elementor-element.elementor-element-5343963c{width:50%;}.elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu--main > .elementor-nav-menu > li > .elementor-nav-menu--dropdown, .elementor-349 .elementor-element.elementor-element-387a2bf2 .elementor-nav-menu__container.elementor-nav-menu--dropdown{margin-top:44px !important;}.elementor-349 .elementor-element.elementor-element-387a2bf2{--nav-menu-icon-size:34px;}.elementor-349 .elementor-element.elementor-element-1832a5f{width:25%;}}@media(min-width:768px){.elementor-349 .elementor-element.elementor-element-4ea5a75{width:10%;}.elementor-349 .elementor-element.elementor-element-5343963c{width:74.249%;}.elementor-349 .elementor-element.elementor-element-1832a5f{width:15.028%;}}@media(max-width:1024px) and (min-width:768px){.elementor-349 .elementor-element.elementor-element-4ea5a75{width:20%;}.elementor-349 .elementor-element.elementor-element-5343963c{width:60%;}.elementor-349 .elementor-element.elementor-element-1832a5f{width:10%;}}
+.elementor-535 .elementor-element.elementor-element-2725abc4 > .elementor-container{max-width:581px;min-height:371px;}.elementor-535 .elementor-element.elementor-element-2725abc4:not(.elementor-motion-effects-element-type-background), .elementor-535 .elementor-element.elementor-element-2725abc4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("images/4.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-535 .elementor-element.elementor-element-2725abc4 > .elementor-background-overlay{background-color:#16163f;opacity:0.61;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-535 .elementor-element.elementor-element-2725abc4{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:150px;margin-bottom:150px;}.elementor-bc-flex-widget .elementor-535 .elementor-element.elementor-element-279d90f1.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-535 .elementor-element.elementor-element-279d90f1.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-535 .elementor-element.elementor-element-2f5d973f{text-align:center;}.elementor-535 .elementor-element.elementor-element-2f5d973f .elementor-heading-title{color:#ffffff;font-family:"Merriweather", Sans-serif;font-size:50px;font-weight:100;text-transform:capitalize;line-height:1.4em;letter-spacing:1.8px;}.elementor-535 .elementor-element.elementor-element-2f5d973f > .elementor-widget-container{border-style:solid;border-width:1px 0px 1px 0px;border-color:#ffffff;}.elementor-535 .elementor-element.elementor-element-3a19c1ec{text-align:center;color:#ffffff;font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:400;text-transform:capitalize;}.elementor-535 .elementor-element.elementor-element-2829d6d > .elementor-container{max-width:1100px;}.elementor-535 .elementor-element.elementor-element-2829d6d > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-535 .elementor-element.elementor-element-2829d6d:not(.elementor-motion-effects-element-type-background), .elementor-535 .elementor-element.elementor-element-2829d6d > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#B4CEC91A;}.elementor-535 .elementor-element.elementor-element-2829d6d{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:-1px 0px 0px 0px;}.elementor-535 .elementor-element.elementor-element-2829d6d > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-535 .elementor-element.elementor-element-3d9e5bc > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-535 .elementor-element.elementor-element-1251d00{text-align:left;}.elementor-535 .elementor-element.elementor-element-1251d00 .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:22px;font-weight:100;text-transform:none;line-height:1em;}.elementor-535 .elementor-element.elementor-element-c728c19 .elementor-icon-list-icon i{color:var( --e-global-color-primary );}.elementor-535 .elementor-element.elementor-element-c728c19 .elementor-icon-list-icon svg{fill:var( --e-global-color-primary );}.elementor-535 .elementor-element.elementor-element-c728c19{--e-icon-list-icon-size:14px;}.elementor-535 .elementor-element.elementor-element-c728c19 .elementor-icon-list-text{color:var( --e-global-color-secondary );padding-left:15px;}.elementor-535 .elementor-element.elementor-element-c728c19 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-535 .elementor-element.elementor-element-c728c19 .elementor-icon-list-item > a{font-family:"Nunito", Sans-serif;font-size:14px;line-height:1.7em;}.elementor-535 .elementor-element.elementor-element-93db4a1{text-align:left;}.elementor-535 .elementor-element.elementor-element-93db4a1 .elementor-heading-title{color:#000000;font-family:"Montaga", Sans-serif;font-size:22px;font-weight:100;text-transform:none;line-height:1em;}.elementor-535 .elementor-element.elementor-element-204909e{--grid-template-columns:repeat(0, auto);--icon-size:24px;--grid-column-gap:8px;--grid-row-gap:0px;}.elementor-535 .elementor-element.elementor-element-204909e .elementor-widget-container{text-align:left;}.elementor-535 .elementor-element.elementor-element-204909e .elementor-social-icon{--icon-padding:0.2em;}.elementor-535 .elementor-element.elementor-element-204909e .elementor-icon{border-radius:4px 4px 4px 4px;}.elementor-535 .elementor-element.elementor-element-11d67b9 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-535 .elementor-element.elementor-element-11d67b9 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-535 .elementor-element.elementor-element-700be70 > .elementor-widget-container{padding:40px 40px 40px 40px;}.elementor-535 .elementor-element.elementor-element-e413968 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-535 .elementor-element.elementor-element-e413968 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-535 .elementor-element.elementor-element-c75935e{text-align:center;}.elementor-535 .elementor-element.elementor-element-c75935e .elementor-heading-title{color:var( --e-global-color-6290da1 );font-family:"Montaga", Sans-serif;font-size:36px;font-weight:500;}.elementor-535 .elementor-element.elementor-element-1ec3e5d7 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-535 .elementor-element.elementor-element-1ec3e5d7:not(.elementor-motion-effects-element-type-background), .elementor-535 .elementor-element.elementor-element-1ec3e5d7 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#B4CEC91A;}.elementor-535 .elementor-element.elementor-element-1ec3e5d7{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:075px 0px 010px 0px;}.elementor-535 .elementor-element.elementor-element-1ec3e5d7 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-535 .elementor-element.elementor-element-2cd5737c > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-535 .elementor-element.elementor-element-9f9b469 .elementor-nav-menu .elementor-item{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:300;}.elementor-535 .elementor-element.elementor-element-9f9b469 .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-primary );fill:var( --e-global-color-primary );}.elementor-535 .elementor-element.elementor-element-9f9b469 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-535 .elementor-element.elementor-element-9f9b469 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-535 .elementor-element.elementor-element-9f9b469 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-535 .elementor-element.elementor-element-9f9b469 .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-secondary );fill:var( --e-global-color-secondary );}.elementor-535 .elementor-element.elementor-element-9f9b469 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-535 .elementor-element.elementor-element-9f9b469 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-primary );}.elementor-535 .elementor-element.elementor-element-9f9b469 .e--pointer-framed .elementor-item:before,
+					.elementor-535 .elementor-element.elementor-element-9f9b469 .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-primary );}.elementor-535 .elementor-element.elementor-element-9f9b469 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:var( --e-global-color-6290da1 );}.elementor-535 .elementor-element.elementor-element-422144d2{text-align:right;color:#000000;font-family:"Montserrat", Sans-serif;font-size:14px;font-weight:200;}.elementor-535 .elementor-element.elementor-element-422144d2 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}@media(max-width:1024px){.elementor-535 .elementor-element.elementor-element-2725abc4 > .elementor-container{min-height:275px;}.elementor-535 .elementor-element.elementor-element-2725abc4{margin-top:20px;margin-bottom:20px;}.elementor-535 .elementor-element.elementor-element-2829d6d > .elementor-container{max-width:1600px;}.elementor-535 .elementor-element.elementor-element-2829d6d{padding:40px 40px 40px 40px;}.elementor-535 .elementor-element.elementor-element-1ec3e5d7{padding:50px 50px 0px 50px;}}@media(max-width:767px){.elementor-535 .elementor-element.elementor-element-2725abc4{margin-top:80px;margin-bottom:80px;padding:0px 15px 0px 15px;}.elementor-535 .elementor-element.elementor-element-2829d6d{margin-top:0px;margin-bottom:0px;padding:020px 020px 020px 020px;}.elementor-535 .elementor-element.elementor-element-3d9e5bc > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-535 .elementor-element.elementor-element-1eb0db4{width:initial;max-width:initial;}.elementor-535 .elementor-element.elementor-element-1ec3e5d7{margin-top:50px;margin-bottom:0px;padding:020px 020px 020px 020px;}.elementor-535 .elementor-element.elementor-element-422144d2{text-align:center;font-size:12px;}}@media(min-width:768px){.elementor-535 .elementor-element.elementor-element-3d9e5bc{width:18.7%;}.elementor-535 .elementor-element.elementor-element-11d67b9{width:43.859%;}.elementor-535 .elementor-element.elementor-element-e413968{width:31.045%;}}@media(max-width:1024px) and (min-width:768px){.elementor-535 .elementor-element.elementor-element-3d9e5bc{width:40%;}.elementor-535 .elementor-element.elementor-element-11d67b9{width:54%;}.elementor-535 .elementor-element.elementor-element-e413968{width:23%;}}@media(min-width:1025px){.elementor-535 .elementor-element.elementor-element-2725abc4:not(.elementor-motion-effects-element-type-background), .elementor-535 .elementor-element.elementor-element-2725abc4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:fixed;}}
+</style>
+<link rel="stylesheet" id="elementor-pro-css" href="css/frontend-lite.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-5-all-css" href="css/all.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="css/v4-shims.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontaga%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CNunito%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMerriweather%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.8.6" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="css/fontawesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="css/solid.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="css/brands.min.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="js/v4-shims.min.js" id="font-awesome-4-shim-js"></script>
+<link rel="https://api.w.org/" href="https://krabithai.es/wp-json/"><link rel="alternate" type="application/json" href="https://krabithai.es/wp-json/wp/v2/pages/21"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://krabithai.es/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://krabithai.es/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8.6">
+<meta name="generator" content="WooCommerce 6.9.3">
+<link rel="shortlink" href="https://krabithai.es/">
+<link rel="alternate" type="application/json+oembed" href="https://krabithai.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkrabithai.es%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://krabithai.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkrabithai.es%2F&format=xml">
 
-.cookiesfc          { position: fixed; left: 0px; bottom: 0px; width: 100%; padding-bottom: 5px;
-                        background-color: #333; line-height: 1.2; height: auto; display: inherit;
-                        font-size: 12px; color: white; text-align: justify; z-index: 2147483647; }
-.cookiesfc h1       { font-size: 120%; font-weight: bold; line-height: 1.4; color: white; padding: 5px 15px; }
-.cookiesdescfc      { padding: 5px 15px; }
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to off -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+	var dataLayer_content = {"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"admin"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script>
+	console.warn && console.warn("[GTM4WP] Google Tag Manager container code placement set to OFF !!!");
+	console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8KNBYFYS83"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-.cookiesselsfc      { text-align: center; }
+  gtag('config', 'G-8KNBYFYS83');
+</script>
 
-.cookiesselsfc div  { display: inline-block; margin-right:10px; }
-.cookiesselsfc div input    { display: inline-block; }
-.cookiesselsfc div label    { display: inline-block; }
-.cookiesselsfc div input[type="button"]     { padding: 3px 15px; }
+<!-- Global site tag (gtag.js) - Google Ads -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-656232872"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-/* Fit Cloud (CSS Menu - Menú superior) */
- 
-/* Fit Cloud (CSS Particular  Original) */
-/* Fit Cloud (original: banner.css) */
-#misBanners	{ width: 1000px; height: 350px; border: 0px; }
-.divbanner h3	{ width:960px; position:relative; float:left; top:-44px; font-size:120%; background-color:#000; color:#AAA; padding: 5px 20px 10px; opacity: .5; -moz-opacity: .5; filter:alpha(opacity=50); }
-/* Fit Cloud (CSS Particular  Original) */
-/* Fit Cloud (original: banner.css) */
-#misBanners	{ width: 1000px; height: 350px; border: 0px; }
-.divbanner h3	{ width:960px; position:relative; float:left; top:-44px; font-size:120%; background-color:#000; color:#AAA; padding: 5px 20px 10px; opacity: .5; -moz-opacity: .5; filter:alpha(opacity=50); }
-/* Fit Cloud (CSS Banner - Lo que opinan nuestros clientes) */
-a.mfn-link-5 span{
-   color: #000 !important;
-   font-weight: 700;
-   font-size: 19px;
-}
-/* Fit Cloud (CSS Banner - Slider) */
-#slide-149-layer-7 a{
-   color: #fff !important;
-   font-size: 20px !important;
-}
-/* Fit Cloud (CSS Banner - Barra top datos contacto) */
-.contact_details a{
-   color: #000 !important;
-}
-.contact_details a:hover{
-   color: #000 !important;
-   font-weight: 600 !important;
-}
-/* Fit Cloud (CSS Particular  Original) */
-/* Fit Cloud (original: banner.css) */
-#misBanners	{ width: 1000px; height: 350px; border: 0px; }
-.divbanner h3	{ width:960px; position:relative; float:left; top:-44px; font-size:120%; background-color:#000; color:#AAA; padding: 5px 20px 10px; opacity: .5; -moz-opacity: .5; filter:alpha(opacity=50); }
-/*CSSFIT*/</style>
+  gtag('config', 'AW-656232872');
+</script>
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '737014920663808');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=737014920663808&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- End Meta Pixel Code -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P89HTT5');</script>
+<!-- End Google Tag Manager -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-226353162-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    <!-- Basic Page Needs -->
-    <meta charset="utf-8">
-    <title>JJ Fitness | Inicio | Centro de entrenamiento deportivo y actividades dirigidas.</title>
-    <meta name="description" content>
-    <meta name="author" content="Fitcloud">
-    <!-- Mobile Specific Metas -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-    <!-- Favicons -->
-    <link rel="shortcut icon" href="favicon.ico">
-
-    <!-- FONTS -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,400italic,700">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Patua+One:100,300,400,400italic,700">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic,900">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Teko:400,400italic,700,700italic">
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/global.css">
-    <link rel="stylesheet" href="css/gym2.css">
-    <link rel="stylesheet" href="css/structure.css">
-    <link rel="stylesheet" href="css/be_style.css">
-
-
-    <!-- Revolution Slider -->
-    <link rel="stylesheet" href="css/settings.css">
-    <link rel="stylesheet" href="css/layers.css">
-    <link rel="stylesheet" href="css/navigation.css">
-
-    <link rel="manifest" href="/pwa_jjfitness_manifest.json">
+  gtag('config', 'UA-226353162-1');
+</script>
+<link rel="icon" href="images/cropped-10-32x32.png" sizes="32x32">
+<link rel="icon" href="images/cropped-10-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="images/cropped-10-180x180.png">
+<meta name="msapplication-TileImage" content="https://krabithai.es/wp-content/uploads/2021/10/cropped-10-270x270.png">
 </head>
-<body class="page-parent template-slider layout-full-width header-classic subheader-transparent sticky-header sticky-white subheader-title-left">
-   <!-- Main Theme Wrapper -->
-   <div id="Wrapper">
-      <!-- Header Wrapper -->
-      <div id="Header_wrapper">
-         <!-- Header -->
-         <header id="Header">
-            <!-- Header Top -  Info Area -->
-            <div id="Action_bar">
-               <div class="container">
-                  <div class="column one">
-                     <!-- Barra top datos contacto --><!-- Fit Cloud (Template Banner - Barra top datos contacto) -->
-<!-- Header - contact info area-->
-<ul class="contact_details">
-   <li class="slogan">
-      ¿Tienes alguna consulta?
-   </li>
-   <li class="phone">
-      <i class="icon-mail-line"></i><a href="mailto:info@jjfitness.es">info@jjfitness.es</a>
-   </li><li class="phone">
-      <i class="icon-mobile"></i><a href="tel:+34640780676">640780676</a>
-   </li>
-</ul>
-                     <!-- Barra top RRSS --><!-- Fit Cloud (Template Banner - Barra top RRSS) -->
-<!--Social info area-->
-<ul class="social">
-   <li class="instagram">
-      <a href="http://www.instagram.com/jjfitnesspatraix" title="instagram" target="_blank"><i class="icon-instagram"></i></a>
-   </li><li class="facebook">
-      <a href="http://www.facebook.com/JJ-Fitness-Centro-Deportivo-101277265731425/" title="facebook" target="_blank"><i class="icon-facebook"></i></a>
-   </li>
-</ul>
-                  </div>
-               </div>
-            </div>
-            <!-- Header -  Logo and Menu area -->
-            <div id="Top_bar">
-               <div class="container">
-                  <div class="column one">
-                     <div class="top_bar_left clearfix">
-                        <!-- Logo-->
-                        <div class="logo">
-                           <a id="logo" href="/" title="Logo JJ Fitness"><img class="logo-main scale-with-grid" src="images/logo-jjfitness-b.png"></a>
-                        </div>
-                        <!-- Main menu-->
-                        <div class="menu_wrapper">
-                           <!-- Menú superior --><!-- Fit Cloud (Template Menu - Menú superior) -->
-<nav id="menu">
-   
-      <ul id="menu-main-menu" class="menu">
-         <li>
-            <a href="https://www.jjfitness.es/inicio2"><span>Inicio</span></a>
-               
-         </li><li>
-            <a href="https://www.jjfitness.es/#"><span>El centro</span></a>
-               
-      <ul class="sub-menu">
-         <li>
-            <a href="https://www.jjfitness.es/instalaciones-jj-fitness-valencia"><span>Instalaciones</span></a>
-               
-         </li><li>
-            <a href="https://www.jjfitness.es/tarifas-jj-fitness-valencia"><span>Tarifas</span></a>
-               
-         </li>
-      </ul>
-   
-         </li><li>
-            <a href="https://www.jjfitness.es/actividades-deportivas-jj-fitness-valencia"><span>Actividades</span></a>
-               
-      <ul class="sub-menu">
-         <li>
-            <a href="https://www.jjfitness.es/gimnasio-libre-jj-fitness"><span>Gimnasio libre</span></a>
-               
-         </li><li>
-            <a href="https://www.jjfitness.es/entrenamiento-personal-jj-fitness"><span>Entrenamiento personal</span></a>
-               
-         </li><li>
-            <a href="https://www.jjfitness.es/entrenamiento-grupal-jj-fitness"><span>Entrenamiento grupal</span></a>
-               
-         </li><li>
-            <a href="https://www.jjfitness.es/clase-funcional-jj-fitness"><span>Funcional</span></a>
-               
-         </li><li>
-            <a href="https://www.jjfitness.es/clase-core-jj-fitness"><span>Core</span></a>
-               
-         </li><li>
-            <a href="https://www.jjfitness.es/clase-hiit-jj-fitness"><span>Hiit</span></a>
-               
-         </li><li>
-            <a href="https://www.jjfitness.es/clase-cross-jj-fitness"><span>Cross</span></a>
-               
-         </li>
-      </ul>
-   
-         </li><li>
-            <a href="https://www.jjfitness.es/actividades-semana"><span>Horarios</span></a>
-               
-         </li><li>
-            <a href="https://www.jjfitness.es/contacto"><span>Contacto</span></a>
-               
-         </li><li>
-            <a href="https://www.jjfitness.es/alta"><span>INSCRÍBETE</span></a>
-               
-         </li><li>
-            <a href="https://www.jjfitness.es/que-deseas-hacer"><span>Área de cliente</span></a>
-               
-         </li>
-      </ul>
-    
-</nav>
-<a class="responsive-menu-toggle" href="#"><i class="icon-menu"></i></a>
-                        </div>
-                     </div><!-- END top_bar_left -->
-                  </div>
-               </div>
-            </div><!-- END Top_bar -->
-            <!-- slider --><!-- Fit Cloud (Template Banner - Slider) -->
-<!-- SLIDER EXAMPLE -->
-                <section class="example">
-                    <article class="content">
-                        <div id="rev_slider_46_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="notgeneric1" style="background-color:transparent;padding:0px;">
-                            <!-- START REVOLUTION SLIDER 5.0.7 fullscreen mode -->
-                            <div id="rev_slider_46_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.0.7">
-                                <ul>
-                                    <!-- SLIDE -->
-                                    <li data-index="rs-1" data-transition="fadetotopfadefrombottom" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500" data-thumb="https://www.jjfitness.es/imagen-banner/1/IMG_20220305_214235-2 MOSTRADOR12.jpg" data-rotate="0" data-saveperformance="off" data-title="Chill" data-description>
-                                        <!-- MAIN IMAGE -->
-                                        <img src="images/IMG_20220305_214235-2%20MOSTRADOR12.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg">
-                                        <!-- LAYERS -->
+<body class="home page-template-default page page-id-21 wp-custom-logo theme-hello-elementor woocommerce-js elementor-default elementor-kit-45 elementor-page elementor-page-21">
 
-                                        <!-- LAYER NR. 1 -->
-                                        <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-3" id="slide-149-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rZ:-35deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; white-space: nowrap;">¡El Gym que estabas
-                                        </div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P89HTT5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		<div data-elementor-type="header" data-elementor-id="349" class="elementor elementor-349 elementor-location-header">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-1e8a440d elementor-section-content-middle elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="1e8a440d" data-element_type="section" data-settings="{" sticky":"top","sticky_on":["desktop","tablet","mobile"],"sticky_offset":0,"sticky_effects_offset":0}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4ea5a75" data-id="4ea5a75" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f2506b2 elementor-widget elementor-widget-image" data-id="f2506b2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="https://krabithai.es">
+							<img src="images/10-pj9crm75v80jsty7ss4bef3nfhg8pj5mqcoz20tlco.png" title="logo Krabi thai" alt="logo Krabi thai">								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5343963c" data-id="5343963c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-387a2bf2 elementor-nav-menu__align-center elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="387a2bf2" data-element_type="widget" data-settings="{" full_width":"stretch","layout":"horizontal","submenu_icon":{"value":"<i fa-caret-down\"><\ i>","library":"fa-solid"},"toggle":"burger"}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-387a2bf2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://krabithai.es/masaje-thai-denia/" class="elementor-item">Masaje</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1318"><a href="https://krabithai.es/hidratacion-relajacion-spa-massage-denia/" class="elementor-item">Belleza</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="https://krabithai.es/instalaciones-krabi-thai-massage-denia/" class="elementor-item">Localización</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1279"><a href="https://krabithai.es/manifiesto/" class="elementor-item">Manifiesto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="https://krabithai.es/regala/" class="elementor-item">Regala</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Alternar menú" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menú</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-387a2bf2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://krabithai.es/masaje-thai-denia/" class="elementor-item" tabindex="-1">Masaje</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1318"><a href="https://krabithai.es/hidratacion-relajacion-spa-massage-denia/" class="elementor-item" tabindex="-1">Belleza</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="https://krabithai.es/instalaciones-krabi-thai-massage-denia/" class="elementor-item" tabindex="-1">Localización</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1279"><a href="https://krabithai.es/manifiesto/" class="elementor-item" tabindex="-1">Manifiesto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="https://krabithai.es/regala/" class="elementor-item" tabindex="-1">Regala</a></li>
+</ul>			</nav>
+				</div>
+				</\></div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1832a5f" data-id="1832a5f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1d1a4a0 elementor-widget elementor-widget-heading" data-id="1d1a4a0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default"><a href="tel:722491922"><b>Tlf.</b> (+34) <b>722 491 922</b></a></h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		
+<main id="content" class="site-main post-21 page type-page status-publish has-post-thumbnail hentry" role="main">
+		<div class="page-content">
+				<div data-elementor-type="wp-page" data-elementor-id="21" class="elementor elementor-21">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-41113e87 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="41113e87" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-15c3cc43" data-id="15c3cc43" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-60c23aa0 elementor-view-default elementor-widget elementor-widget-icon" data-id="60c23aa0" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+						</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-40e55b46 elementor-section-height-min-height elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="40e55b46" data-element_type="section" data-settings="{" background_background":"classic"}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a694d3c" data-id="2a694d3c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-433414e6 elementor-widget elementor-widget-text-editor" data-id="433414e6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>CENTRO DE MASAJE INTERNACIONAL</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-031e3f6 elementor-widget elementor-widget-heading" data-id="031e3f6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Salud & bienestar para tu vida</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1038cdd elementor-widget elementor-widget-text-editor" data-id="1038cdd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Cuidado corporal, relajación y vida saludable para vivir más y mejor.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c373c2e elementor-align-left elementor-widget elementor-widget-button" data-id="c373c2e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://api.whatsapp.com/send?phone=34722491922" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">RESERVA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2ac0b8a7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2ac0b8a7" data-element_type="section" data-settings="{" background_background":"classic"}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-241e3d3a" data-id="241e3d3a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2f7f2ced elementor-widget elementor-widget-image" data-id="2f7f2ced" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="2560" height="1920" src="images/FullSizeRender4-scaled.jpeg" class="attachment-full size-full" alt="Salud bienestar masaje international massage" loading="lazy" srcset="images/FullSizeRender4-scaled.jpeg 2560w, images/FullSizeRender4-300x225.jpeg 300w, images/FullSizeRender4-1024x768.jpeg 1024w, images/FullSizeRender4-768x576.jpeg 768w, images/FullSizeRender4-1536x1152.jpeg 1536w, images/FullSizeRender4-2048x1536.jpeg 2048w, images/FullSizeRender4-600x450.jpeg 600w" sizes="(max-width: 2560px) 100vw, 2560px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7105220f" data-id="7105220f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7349470 elementor-widget elementor-widget-text-editor" data-id="7349470" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: left;">SOBRE KRABHI THAI</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6285fdb6 elementor-widget elementor-widget-heading" data-id="6285fdb6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Bienestar para una <br>vida más longeva</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7d785a6 elementor-widget elementor-widget-text-editor" data-id="7d785a6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>En Krabi cuidamos los detalles, cada una de nuestras expertas masajistas combina tacto, intuición y metología para mejorar la salud de cada persona.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7c15c1a0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c15c1a0" data-element_type="section" data-settings="{" background_background":"classic"}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3723c600" data-id="3723c600" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2cd4e8ac elementor-widget elementor-widget-heading" data-id="2cd4e8ac" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Atención, escucha y suavidad</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7f9175ab elementor-widget elementor-widget-heading" data-id="7f9175ab" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Llénate de energía, rejuvenece y relájate en el paraíso del masaje de la Costa Blanca. </h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8783912 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="8783912" data-element_type="widget" data-settings="{" transition":"fade","navigation":"both","autoplay":"yes","pause_on_hover":"yes","pause_on_interaction":"yes","autoplay_speed":5000,"infinite":"yes","transition_speed":500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.7.7 - 20-09-2022 */
+.elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor--h-position-left .swiper-slide-inner{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}</style>		<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+										<div class="elementor-repeater-item-b818ae6 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents"></div></div></div>				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-115fab2 elementor-widget elementor-widget-text-editor" data-id="115fab2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: center;">Una experiencia de renovación guiada y personalizada para cada ocasión.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6c26ec2 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="6c26ec2" data-element_type="section" data-settings="{" background_background":"classic"}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9dc0e11" data-id="9dc0e11" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1701794 elementor-widget elementor-widget-menu-anchor" data-id="1701794" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div id="INICIO" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-445da67 elementor-widget elementor-widget-text-editor" data-id="445da67" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: center;">SIEMPRE A TU SERVICIO</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-7892797 elementor-widget elementor-widget-heading" data-id="7892797" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Obtén tu recomendación o reserva</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cb7c75d elementor-align-center elementor-widget elementor-widget-button" data-id="cb7c75d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://api.whatsapp.com/send?phone=34722491922" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">RESERVA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-428e06de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="428e06de" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37fa1adb" data-id="37fa1adb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4670517 elementor-widget elementor-widget-heading" data-id="4670517" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Tratamientos de salud</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e060d1b elementor-widget elementor-widget-text-editor" data-id="e060d1b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Te proponemos incluir espacios de cuidado continuados, tener una cita contigo y regalarte experiencia Krabi Thai, donde ofrecemos una amplia gama de masajes y tratamientos corporales que te llenará de energía y ganas de saltar de la cama cada día.</p>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-56029447 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="56029447" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-49068b34" data-id="49068b34" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-49ef4825 elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box" data-id="49ef4825" data-element_type="widget" data-widget_type="flip-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="css/widget-flip-box.min.css">		<div class="elementor-flip-box">
+			<div class="elementor-flip-box__layer elementor-flip-box__front">
+				<div class="elementor-flip-box__layer__overlay">
+					<div class="elementor-flip-box__layer__inner">
+						
+													<h3 class="elementor-flip-box__layer__title">
+								Masaje tradicional Thai							</h3>
+						
+													<div class="elementor-flip-box__layer__description">
+								Las más notables de las técnicas de masaje internacional Tailandés.							</div>
+											</div>
+				</div>
+			</div>
+			<a class="elementor-flip-box__layer elementor-flip-box__back" href="https://api.whatsapp.com/send?phone=34722491922">
+			<div class="elementor-flip-box__layer__overlay">
+				<div class="elementor-flip-box__layer__inner">
+					
+					
+											<span class="elementor-flip-box__button elementor-button elementor-size-sm">
+							RESERVA						</span>
+								</div>
+		</div>
+		</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-933df5a" data-id="933df5a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6939431c elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box" data-id="6939431c" data-element_type="widget" data-widget_type="flip-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-flip-box">
+			<div class="elementor-flip-box__layer elementor-flip-box__front">
+				<div class="elementor-flip-box__layer__overlay">
+					<div class="elementor-flip-box__layer__inner">
+						
+													<h3 class="elementor-flip-box__layer__title">
+								Masaje Clásico							</h3>
+						
+													<div class="elementor-flip-box__layer__description">
+								La perfecta fusión para relajar y descontracturar tu cuerpo.							</div>
+											</div>
+				</div>
+			</div>
+			<div class="elementor-flip-box__layer elementor-flip-box__back">
+			<div class="elementor-flip-box__layer__overlay">
+				<div class="elementor-flip-box__layer__inner">
+					
+					
+											<a class="elementor-flip-box__button elementor-button elementor-size-sm" href="https://api.whatsapp.com/send?phone=34722491922">
+							RESERVA						</a>
+								</div>
+		</div>
+		</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2f246d7d" data-id="2f246d7d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-524b348f elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box" data-id="524b348f" data-element_type="widget" data-widget_type="flip-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-flip-box">
+			<div class="elementor-flip-box__layer elementor-flip-box__front">
+				<div class="elementor-flip-box__layer__overlay">
+					<div class="elementor-flip-box__layer__inner">
+						
+													<h3 class="elementor-flip-box__layer__title">
+								Masaje en pareja							</h3>
+						
+													<div class="elementor-flip-box__layer__description">
+								Una experiencia única donde fortalecer lazos afectivos e íntimos.							</div>
+											</div>
+				</div>
+			</div>
+			<div class="elementor-flip-box__layer elementor-flip-box__back">
+			<div class="elementor-flip-box__layer__overlay">
+				<div class="elementor-flip-box__layer__inner">
+					
+					
+											<a class="elementor-flip-box__button elementor-button elementor-size-sm" href="https://api.whatsapp.com/send?phone=34722491922">
+							RESERVA						</a>
+								</div>
+		</div>
+		</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-85c4985 elementor-align-center elementor-widget elementor-widget-button" data-id="85c4985" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://krabithai.es/masaje-thai-denia" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">CONOCE MÁS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a44849e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a44849e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-905a3b4" data-id="905a3b4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4b0daef elementor-widget elementor-widget-heading" data-id="4b0daef" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Belleza corporal</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1dc9c98 elementor-widget elementor-widget-text-editor" data-id="1dc9c98" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Hidratación nutritiva, aceites de ensueño y exfoliación corporal,  que dejan la piel hidratada, suave cuidada.</p>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f225074 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f225074" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b14c60b" data-id="b14c60b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-869a438 elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box" data-id="869a438" data-element_type="widget" data-widget_type="flip-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-flip-box">
+			<div class="elementor-flip-box__layer elementor-flip-box__front">
+				<div class="elementor-flip-box__layer__overlay">
+					<div class="elementor-flip-box__layer__inner">
+						
+													<h3 class="elementor-flip-box__layer__title">
+								Hidratación							</h3>
+						
+													<div class="elementor-flip-box__layer__description">
+								Intensos y nutritivos aceites corporales que reparan las zonas más secas y dañadas de la piel.							</div>
+											</div>
+				</div>
+			</div>
+			<a class="elementor-flip-box__layer elementor-flip-box__back" href="https://krabithai.es/hidratacion-relajacion-spa-massage-denia">
+			<div class="elementor-flip-box__layer__overlay">
+				<div class="elementor-flip-box__layer__inner">
+					
+					
+											<span class="elementor-flip-box__button elementor-button elementor-size-sm">
+							DESCUBRE						</span>
+								</div>
+		</div>
+		</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d8b3d3d" data-id="d8b3d3d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4159f63 elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box" data-id="4159f63" data-element_type="widget" data-widget_type="flip-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-flip-box">
+			<div class="elementor-flip-box__layer elementor-flip-box__front">
+				<div class="elementor-flip-box__layer__overlay">
+					<div class="elementor-flip-box__layer__inner">
+						
+													<h3 class="elementor-flip-box__layer__title">
+								Exfoliación							</h3>
+						
+													<div class="elementor-flip-box__layer__description">
+								Masaje combinado para una piel radiante. Activa la circulación y suaviza tu cuerpo.							</div>
+											</div>
+				</div>
+			</div>
+			<div class="elementor-flip-box__layer elementor-flip-box__back">
+			<div class="elementor-flip-box__layer__overlay">
+				<div class="elementor-flip-box__layer__inner">
+					
+					
+											<a class="elementor-flip-box__button elementor-button elementor-size-sm" href="https://krabithai.es/hidratacion-relajacion-spa-massage-denia">
+							DESCUBRE						</a>
+								</div>
+		</div>
+		</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e463b4f" data-id="e463b4f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-bdb66a3 elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box" data-id="bdb66a3" data-element_type="widget" data-widget_type="flip-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-flip-box">
+			<div class="elementor-flip-box__layer elementor-flip-box__front">
+				<div class="elementor-flip-box__layer__overlay">
+					<div class="elementor-flip-box__layer__inner">
+						
+													<h3 class="elementor-flip-box__layer__title">
+								Tratamiento combinado							</h3>
+						
+													<div class="elementor-flip-box__layer__description">
+								Elige la mejor opción entre una gran variedad de tratamientos de belleza corporal							</div>
+											</div>
+				</div>
+			</div>
+			<div class="elementor-flip-box__layer elementor-flip-box__back">
+			<div class="elementor-flip-box__layer__overlay">
+				<div class="elementor-flip-box__layer__inner">
+					
+					
+											<a class="elementor-flip-box__button elementor-button elementor-size-sm" href="https://krabithai.es/hidratacion-relajacion-spa-massage-denia2491922">
+							DESCUBRE						</a>
+								</div>
+		</div>
+		</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-d9a15b0 elementor-align-center elementor-widget elementor-widget-button" data-id="d9a15b0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://krabithai.es/hidratacion-relajacion-spa-massage-denia" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">CONOCE MÁS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ac3da25 elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="ac3da25" data-element_type="section" data-settings="{" background_background":"classic"}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-df480c7" data-id="df480c7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cbe4617 elementor-widget elementor-widget-heading" data-id="cbe4617" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">HIDRATACION Y RELAJACIÓN</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b7159d4 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b7159d4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8c6ca5e" data-id="8c6ca5e" data-element_type="column" data-settings="{" background_background":"classic"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-125ee25 elementor-widget elementor-widget-heading" data-id="125ee25" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">HIDRATA Y RELAJA</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-44509fb elementor-widget elementor-widget-heading" data-id="44509fb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">HIDRATACIÓN</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fb71695 elementor-widget elementor-widget-text-editor" data-id="fb71695" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">Intensos y nutritivos aceites corporales que dejan la piel hidratada, cuidada y suave. Ayuda a cuidar de las zonas más secas y dañadas de la piel.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-d4d6fcd elementor-align-center elementor-widget elementor-widget-button" data-id="d4d6fcd" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://krabithai.es/hidratacion-relajacion-spa-massage-denia" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">CONOCE MÁS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2b08251" data-id="2b08251" data-element_type="column" data-settings="{" background_background":"classic"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-31845af elementor-widget elementor-widget-heading" data-id="31845af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">HIDRATA Y EXFOLIA</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7c570ec elementor-widget elementor-widget-heading" data-id="7c570ec" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">EXFOLIACIÓN</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9d08a1a elementor-widget elementor-widget-text-editor" data-id="9d08a1a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">Consigue una piel radiante y sana con la exfoliación corporal de origen natural que mejora la circulación y suaviza las zonas secas. </span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-19a85df elementor-align-center elementor-widget elementor-widget-button" data-id="19a85df" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://krabithai.es/hidratacion-relajacion-spa-massage-denia/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">DESCUBRE</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b56bed3" data-id="b56bed3" data-element_type="column" data-settings="{" background_background":"classic"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-696aa21 elementor-widget elementor-widget-heading" data-id="696aa21" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">EXFOLIA Y RELAJA</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-92ef169 elementor-widget elementor-widget-heading" data-id="92ef169" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">RELAJACION</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3354459 elementor-widget elementor-widget-text-editor" data-id="3354459" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">Un apreciado tratamiento que masajea suavemente tu cuerpo, sentirás armonía interior, equilibrio espiritual y limpieza energética.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1f12877 elementor-align-center elementor-widget elementor-widget-button" data-id="1f12877" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://krabithai.es/hidratacion-relajacion-spa-massage-denia/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">PRUÉBALO</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-199dfe6 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="199dfe6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2d82be5" data-id="2d82be5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b0a52d0 elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="b0a52d0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="2502" height="2492" src="images/27.jpg" class="attachment-full size-full" alt="Spa masaje denia" loading="lazy" srcset="images/27.jpg 2502w, images/27-300x300.jpg 300w, images/27-1024x1020.jpg 1024w, images/27-150x150.jpg 150w, images/27-768x765.jpg 768w, images/27-1536x1530.jpg 1536w, images/27-2048x2040.jpg 2048w, images/27-600x598.jpg 600w, images/27-100x100.jpg 100w" sizes="(max-width: 2502px) 100vw, 2502px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3bc4cb5" data-id="3bc4cb5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c40eb20 elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="c40eb20" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="2502" height="2492" src="images/34.jpg" class="attachment-full size-full" alt="Krabi thai | Spa masaje denia" loading="lazy" srcset="images/34.jpg 2502w, images/34-300x300.jpg 300w, images/34-1024x1020.jpg 1024w, images/34-150x150.jpg 150w, images/34-768x765.jpg 768w, images/34-1536x1530.jpg 1536w, images/34-2048x2040.jpg 2048w, images/34-600x598.jpg 600w, images/34-100x100.jpg 100w" sizes="(max-width: 2502px) 100vw, 2502px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3067735" data-id="3067735" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b36b266 elementor-widget elementor-widget-image" data-id="b36b266" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="2502" height="2492" src="images/26.jpg" class="attachment-full size-full" alt="Krabi thai | Spa masaje denia" loading="lazy" srcset="images/26.jpg 2502w, images/26-300x300.jpg 300w, images/26-1024x1020.jpg 1024w, images/26-150x150.jpg 150w, images/26-768x765.jpg 768w, images/26-1536x1530.jpg 1536w, images/26-2048x2040.jpg 2048w, images/26-600x598.jpg 600w, images/26-100x100.jpg 100w" sizes="(max-width: 2502px) 100vw, 2502px">															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-6d2b62c elementor-align-center elementor-widget elementor-widget-button" data-id="6d2b62c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://krabithai.es/hidratacion-relajacion-spa-massage-denia/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">DESCUBRE MÁS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-008ae63 elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="008ae63" data-element_type="section" data-settings="{" background_background":"classic"}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-945e0e1" data-id="945e0e1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-56029e1 elementor-widget elementor-widget-heading" data-id="56029e1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">ENCUENTRA TU MASAJE FAVORITO</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f1d516c elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f1d516c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-26fed08" data-id="26fed08" data-element_type="column" data-settings="{" background_background":"classic"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-23c54de elementor-widget elementor-widget-heading" data-id="23c54de" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">REJUVENECER Y REVITALIZAR</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2f01525 elementor-widget elementor-widget-heading" data-id="2f01525" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">MASAJE TRADICIONAL THAI</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-84bd2b1 elementor-widget elementor-widget-text-editor" data-id="84bd2b1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">Un masaje  que reconstruye los tejidos del cuerpo, combina las más notables de las técnicas de masaje internacional tailandes.</span></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-48f7929" data-id="48f7929" data-element_type="column" data-settings="{" background_background":"classic"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-98105aa elementor-widget elementor-widget-heading" data-id="98105aa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">RELAJACIÓN Y CALMA INTERIOR</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0b8ea7b elementor-widget elementor-widget-heading" data-id="0b8ea7b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">MASAJE THAI CON ACEITES</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3fef655 elementor-widget elementor-widget-text-editor" data-id="3fef655" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">Un apreciado tratamiento que combina el masaje corporal con  el suave aroma de exquisitos aceites esenciales. Realizado por tailandesas nativas.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-0476566 elementor-align-center elementor-widget elementor-widget-button" data-id="0476566" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://krabithai.es/producto/regala-salud/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">PRUÉBALO</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-1391465 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1391465" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-71ad24c" data-id="71ad24c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ee19471 elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="ee19471" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1350" height="650" src="images/aav.jpg" class="attachment-full size-full" alt="Krabi thai | Spa masaje denia" loading="lazy" srcset="images/aav.jpg 1350w, images/aav-300x144.jpg 300w, images/aav-1024x493.jpg 1024w, images/aav-768x370.jpg 768w, images/aav-600x289.jpg 600w" sizes="(max-width: 1350px) 100vw, 1350px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9bf3220" data-id="9bf3220" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8bac91f elementor-widget elementor-widget-image" data-id="8bac91f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1350" height="650" src="images/aag.jpg" class="attachment-full size-full" alt="Krabi thai | Spa masaje denia" loading="lazy" srcset="images/aag.jpg 1350w, images/aag-300x144.jpg 300w, images/aag-1024x493.jpg 1024w, images/aag-768x370.jpg 768w, images/aag-600x289.jpg 600w" sizes="(max-width: 1350px) 100vw, 1350px">															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b258ad6 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b258ad6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3dd1e83" data-id="3dd1e83" data-element_type="column" data-settings="{" background_background":"classic"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d9d0e8a elementor-widget elementor-widget-heading" data-id="d9d0e8a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">FORTALECE TUS VINCULOS</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c409304 elementor-widget elementor-widget-heading" data-id="c409304" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">MASAJE EN PAREJA</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-410414b elementor-widget elementor-widget-text-editor" data-id="410414b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">Un momento único de relajación y cuidado personal compartido en un ambiente agradable y exclusivo donde fortalecer lazos afectivos e íntimos.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-266dbf4 elementor-align-center elementor-widget elementor-widget-button" data-id="266dbf4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://krabithai.es/masajes/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">CONOCE MÁS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2708a48" data-id="2708a48" data-element_type="column" data-settings="{" background_background":"classic"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-abff755 elementor-widget elementor-widget-heading" data-id="abff755" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">PLACER Y EXCLUSIVIDAD</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f6d90af elementor-widget elementor-widget-heading" data-id="f6d90af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">MASAJE 4 HAND</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-270fc0f elementor-widget elementor-widget-text-editor" data-id="270fc0f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">Un masaje a cuatro manos es el más exclusivo de todos los masajes del sudeste asiático. Nuestras expertas masajistas se sincronizan en este ritual coordinando el tratamiento que reciben los dos hemisferios del cuerpo.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b9d32ed elementor-align-center elementor-widget elementor-widget-button" data-id="b9d32ed" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://krabithai.es/producto/regala-salud/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">PRUÉBALO</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-c17a0dc elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c17a0dc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-091273e" data-id="091273e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6fb46b4 elementor-widget elementor-widget-image" data-id="6fb46b4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1350" height="650" src="images/aab.jpg" class="attachment-full size-full" alt loading="lazy" srcset="images/aab.jpg 1350w, images/aab-300x144.jpg 300w, images/aab-1024x493.jpg 1024w, images/aab-768x370.jpg 768w, images/aab-600x289.jpg 600w" sizes="(max-width: 1350px) 100vw, 1350px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-091958d" data-id="091958d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-396198b elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="396198b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="600" height="450" src="images/aj.jpg" class="attachment-full size-full" alt="Krabi thai | Spa masaje denia" loading="lazy" srcset="images/aj.jpg 600w, images/aj-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px">															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-547062a elementor-align-center elementor-widget elementor-widget-button" data-id="547062a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://krabithai.es/masajes/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">DESCUBRE TODOS LOS MASAJES</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f91a08e elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="f91a08e" data-element_type="section" data-settings="{" background_background":"classic"}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-80dbb29" data-id="80dbb29" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0ab2090 elementor-widget elementor-widget-heading" data-id="0ab2090" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Tarifas del servicio</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-25b2032 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="25b2032" data-element_type="section" data-settings="{" background_background":"classic"}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2471701" data-id="2471701" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a63eb74 elementor-widget elementor-widget-heading" data-id="a63eb74" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Tratamiento individual</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-845cf80 elementor-widget elementor-widget-price-list" data-id="845cf80" data-element_type="widget" data-widget_type="price-list.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.7.7 - 20-09-2022 */
+.elementor-widget-price-list .elementor-price-list{list-style:none;padding:0;margin:0}.elementor-widget-price-list .elementor-price-list li{margin:0}.elementor-price-list li:not(:last-child){margin-bottom:20px}.elementor-price-list .elementor-price-list-image{max-width:50%;-ms-flex-negative:0;flex-shrink:0;padding-right:25px}.elementor-price-list .elementor-price-list-image img{width:100%}.elementor-price-list .elementor-price-list-header,.elementor-price-list .elementor-price-list-item,.elementor-price-list .elementor-price-list-text{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-price-list .elementor-price-list-item{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-price-list .elementor-price-list-item .elementor-price-list-text{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.elementor-price-list .elementor-price-list-item .elementor-price-list-header{-webkit-box-align:center;-ms-flex-align:center;align-items:center;-ms-flex-preferred-size:100%;flex-basis:100%;font-size:19px;font-weight:600;margin-bottom:10px;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.elementor-price-list .elementor-price-list-item .elementor-price-list-title{max-width:80%}.elementor-price-list .elementor-price-list-item .elementor-price-list-price{font-weight:600}.elementor-price-list .elementor-price-list-item p.elementor-price-list-description{-ms-flex-preferred-size:100%;flex-basis:100%;font-size:14px;margin:0}.elementor-price-list .elementor-price-list-item .elementor-price-list-separator{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;margin-left:10px;margin-right:10px;border-bottom-style:dotted;border-bottom-width:2px;height:0}.elementor-price-table{text-align:center}.elementor-price-table .elementor-price-table__header{background:var(--e-price-table-header-background-color,#555);padding:20px 0}.elementor-price-table .elementor-price-table__heading{margin:0;padding:0;line-height:1.2;font-size:24px;font-weight:600;color:#fff}.elementor-price-table .elementor-price-table__subheading{font-size:13px;font-weight:400;color:#fff}.elementor-price-table .elementor-price-table__original-price{margin-right:15px;text-decoration:line-through;font-size:.5em;line-height:1;font-weight:400;-ms-flex-item-align:center;align-self:center}.elementor-price-table .elementor-price-table__original-price .elementor-price-table__currency{font-size:1em;margin:0}.elementor-price-table .elementor-price-table__price{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;color:#555;font-weight:800;font-size:65px;padding:40px 0}.elementor-price-table .elementor-price-table__price .elementor-typo-excluded{line-height:normal;letter-spacing:normal;text-transform:none;font-weight:400;font-size:medium;font-style:normal}.elementor-price-table .elementor-price-table__after-price{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;text-align:left;-ms-flex-item-align:stretch;align-self:stretch;-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}.elementor-price-table .elementor-price-table__integer-part{line-height:.8}.elementor-price-table .elementor-price-table__currency,.elementor-price-table .elementor-price-table__fractional-part{line-height:1;font-size:.3em}.elementor-price-table .elementor-price-table__currency{margin-right:3px}.elementor-price-table .elementor-price-table__period{width:100%;font-size:13px;font-weight:400}.elementor-price-table .elementor-price-table__features-list{list-style-type:none;margin:0;padding:0;line-height:1;color:var(--e-price-table-features-list-color)}.elementor-price-table .elementor-price-table__features-list li{font-size:14px;line-height:1;margin:0;padding:0}.elementor-price-table .elementor-price-table__features-list li .elementor-price-table__feature-inner{margin-left:15px;margin-right:15px}.elementor-price-table .elementor-price-table__features-list li:not(:first-child):before{content:"";display:block;border:0 solid hsla(0,0%,47.8%,.3);margin:10px 12.5%}.elementor-price-table .elementor-price-table__features-list i{margin-right:10px;font-size:1.3em}.elementor-price-table .elementor-price-table__features-list svg{margin-right:10px;fill:var(--e-price-table-features-list-color);height:1.3em;width:1.3em}.elementor-price-table .elementor-price-table__features-list svg~*{vertical-align:text-top}.elementor-price-table .elementor-price-table__footer{padding:30px 0}.elementor-price-table .elementor-price-table__additional_info{margin:0;font-size:13px;line-height:1.4}.elementor-price-table__ribbon{position:absolute;top:0;left:auto;right:0;-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg);width:150px;overflow:hidden;height:150px}.elementor-price-table__ribbon-inner{text-align:center;left:0;width:200%;-webkit-transform:translateY(-50%) translateX(-50%) translateX(35px) rotate(-45deg);-ms-transform:translateY(-50%) translateX(-50%) translateX(35px) rotate(-45deg);transform:translateY(-50%) translateX(-50%) translateX(35px) rotate(-45deg);margin-top:35px;font-size:13px;line-height:2;font-weight:800;text-transform:uppercase;background:#000}.elementor-price-table__ribbon.elementor-ribbon-left{-webkit-transform:rotate(0);-ms-transform:rotate(0);transform:rotate(0);left:0;right:auto}.elementor-price-table__ribbon.elementor-ribbon-right{-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg);left:auto;right:0}.elementor-widget-price-table .elementor-widget-container{overflow:hidden;background-color:#f7f7f7}.e-container>.elementor-widget-price-list,.e-container__inner>.elementor-widget-price-list{width:var(--container-widget-width,100%)}</style>
+		<ul class="elementor-price-list">
 
-                                        <!-- LAYER NR. 2 -->
-                                        <div class="tp-caption NotGeneric-SubTitle tp-resizeme rs-parallaxlevel-2" id="slide-149-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['82','82','82','81']" data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;"><p><span style="font-size:72px;"><span style="color:#FFFF00;"><strong>esperando!</strong></span></span></p>
+									<li class="elementor-price-list-item">				
+				<div class="elementor-price-list-text">
+									<div class="elementor-price-list-header">
+											<span class="elementor-price-list-title">
+							Masaje 60 min.						</span>
+																		<span class="elementor-price-list-separator"></span>
+																			<span class="elementor-price-list-price">45 €</span>
+										</div>
+												</div>
+				</li>												<li class="elementor-price-list-item">				
+				<div class="elementor-price-list-text">
+									<div class="elementor-price-list-header">
+											<span class="elementor-price-list-title">
+							Masaje 90 min.						</span>
+																		<span class="elementor-price-list-separator"></span>
+																			<span class="elementor-price-list-price">70 €</span>
+										</div>
+												</div>
+				</li>												<li><a class="elementor-price-list-item" href="#">				
+				<div class="elementor-price-list-text">
+									<div class="elementor-price-list-header">
+											<span class="elementor-price-list-title">
+							Masaje 120 min.						</span>
+																		<span class="elementor-price-list-separator"></span>
+																			<span class="elementor-price-list-price">85 €</span>
+										</div>
+												</div>
+				</a></li>					
+		</ul>
 
-                                        </div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-055357e elementor-widget elementor-widget-heading" data-id="055357e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Tratamiento en pareja</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9f2d9b3 elementor-widget elementor-widget-price-list" data-id="9f2d9b3" data-element_type="widget" data-widget_type="price-list.default">
+				<div class="elementor-widget-container">
+			
+		<ul class="elementor-price-list">
 
-                                        <!-- LAYER NR. 3 -->
-                                        <div class="tp-caption NotGeneric-Icon tp-resizeme rs-parallaxlevel-1" id="slide-149-layer-8" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-68','-68','-68','-68']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-style_hover="cursor:default;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;"><i class="pe-7s-mouse"></i>
-                                        </div>
+									<li class="elementor-price-list-item">				
+				<div class="elementor-price-list-text">
+									<div class="elementor-price-list-header">
+											<span class="elementor-price-list-title">
+							Masaje 60 min.						</span>
+																		<span class="elementor-price-list-separator"></span>
+																			<span class="elementor-price-list-price">85 €</span>
+										</div>
+												</div>
+				</li>												<li class="elementor-price-list-item">				
+				<div class="elementor-price-list-text">
+									<div class="elementor-price-list-header">
+											<span class="elementor-price-list-title">
+							Masaje 90 min.						</span>
+																		<span class="elementor-price-list-separator"></span>
+																			<span class="elementor-price-list-price">130 €</span>
+										</div>
+												</div>
+				</li>												<li><a class="elementor-price-list-item" href="#">				
+				<div class="elementor-price-list-text">
+									<div class="elementor-price-list-header">
+											<span class="elementor-price-list-title">
+							Masaje 120 min.						</span>
+																		<span class="elementor-price-list-separator"></span>
+																			<span class="elementor-price-list-price">160 €</span>
+										</div>
+												</div>
+				</a></li>					
+		</ul>
 
-                                        <!-- LAYER NR. 4 -->
-                                        <div class="tp-caption NotGeneric-Button rev-btn rs-parallaxlevel-0" id="slide-149-layer-7" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['164','164','164','163']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);cursor:pointer;" data-transform_in="y:50px;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="y:[175%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off" style="z-index: 8; white-space: nowrap;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"><a href="/area-usuarios-registro">INSCRÍBETE</a>
-                                        </div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-94402f6" data-id="94402f6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c0fa6b3 elementor-widget elementor-widget-heading" data-id="c0fa6b3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Belleza corporal</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2c5e550 elementor-widget elementor-widget-price-list" data-id="2c5e550" data-element_type="widget" data-widget_type="price-list.default">
+				<div class="elementor-widget-container">
+			
+		<ul class="elementor-price-list">
 
-                                        <!-- LAYER NR. 5 -->
-                                        <div class="tp-caption rev-scroll-btn rs-parallaxlevel-0" id="slide-149-layer-9" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['50','50','50','50']" data-width="35" data-height="55" data-whitespace="nowrap" data-transform_idle="o:1;" data-style_hover="cursor:pointer;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:50px;opacity:0;s:1000;s:1000;" data-start="2000" data-splitin="none" data-splitout="none" data-actions="[{" event":"click","action":"scrollbelow","offset":"0px"}]" data-basealign="slide" data-responsive_offset="off" data-responsive="off" style="z-index: 9; min-width: 35px; max-width: 35px; max-width: 55px; max-width: 55px; white-space: nowrap; font-size: px; line-height: px; font-weight: 100;border-color:rgba(255, 255, 255, 0.50);border-style:solid;border-width:1px;border-radius:23px 23px 23px 23px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
-                                            <span>
-					</span>
-                                        </div>
-                                    </li><li data-index="rs-6" data-transition="fadetotopfadefrombottom" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500" data-thumb="https://www.jjfitness.es/imagen-banner/6/pared-jjfitness-slogan-2.jpg" data-rotate="0" data-saveperformance="off" data-title="Chill" data-description>
-                                        <!-- MAIN IMAGE -->
-                                        <img src="images/pared-jjfitness-slogan-2.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg">
-                                        <!-- LAYERS -->
+									<li class="elementor-price-list-item">				
+				<div class="elementor-price-list-text">
+									<div class="elementor-price-list-header">
+											<span class="elementor-price-list-title">
+							Cuidado manos 30 min.						</span>
+																		<span class="elementor-price-list-separator"></span>
+																			<span class="elementor-price-list-price">20 €</span>
+										</div>
+												</div>
+				</li>												<li class="elementor-price-list-item">				
+				<div class="elementor-price-list-text">
+									<div class="elementor-price-list-header">
+											<span class="elementor-price-list-title">
+							Cuidado facial 30 min.						</span>
+																		<span class="elementor-price-list-separator"></span>
+																			<span class="elementor-price-list-price">30 €</span>
+										</div>
+												</div>
+				</li>												<li class="elementor-price-list-item">				
+				<div class="elementor-price-list-text">
+									<div class="elementor-price-list-header">
+											<span class="elementor-price-list-title">
+							Cuidado pies 30 min.						</span>
+																		<span class="elementor-price-list-separator"></span>
+																			<span class="elementor-price-list-price">30 €</span>
+										</div>
+												</div>
+				</li>					
+		</ul>
 
-                                        <!-- LAYER NR. 1 -->
-                                        <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-3" id="slide-149-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rZ:-35deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 5; white-space: nowrap;">Todo esfuerzo
-                                        </div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9494870 elementor-widget elementor-widget-heading" data-id="9494870" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Disponible bonos de 5 y 10 horas  de masaje con descuento especial.</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+				<div class="post-tags">
+					</div>
+			</div>
 
-                                        <!-- LAYER NR. 2 -->
-                                        <div class="tp-caption NotGeneric-SubTitle tp-resizeme rs-parallaxlevel-2" id="slide-149-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['82','82','82','81']" data-fontsize="['70','70','70','45']" data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;"><p> tiene su recompensa.</p>
+	<section id="comments" class="comments-area">
 
-                                        </div>
-
-                                        <!-- LAYER NR. 3 -->
-                                        <div class="tp-caption NotGeneric-Icon tp-resizeme rs-parallaxlevel-1" id="slide-149-layer-8" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-68','-68','-68','-68']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-style_hover="cursor:default;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;"><i class="pe-7s-mouse"></i>
-                                        </div>
-
-                                        <!-- LAYER NR. 4 -->
-                                        <div class="tp-caption NotGeneric-Button rev-btn rs-parallaxlevel-0" id="slide-149-layer-7" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['164','164','164','163']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);cursor:pointer;" data-transform_in="y:50px;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="y:[175%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off" style="z-index: 8; white-space: nowrap;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"><a href></a>
-                                        </div>
-
-                                        <!-- LAYER NR. 5 -->
-                                        <div class="tp-caption rev-scroll-btn rs-parallaxlevel-0" id="slide-149-layer-9" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['50','50','50','50']" data-width="35" data-height="55" data-whitespace="nowrap" data-transform_idle="o:1;" data-style_hover="cursor:pointer;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:50px;opacity:0;s:1000;s:1000;" data-start="2000" data-splitin="none" data-splitout="none" data-actions="[{" event":"click","action":"scrollbelow","offset":"0px"}]" data-basealign="slide" data-responsive_offset="off" data-responsive="off" style="z-index: 9; min-width: 35px; max-width: 35px; max-width: 55px; max-width: 55px; white-space: nowrap; font-size: px; line-height: px; font-weight: 100;border-color:rgba(255, 255, 255, 0.50);border-style:solid;border-width:1px;border-radius:23px 23px 23px 23px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
-                                            <span>
-					</span>
-                                        </div>
-                                    </li>                                    
-                                </ul>
-                                
-                                </div>
-                                <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
-                            </div>
-                        </article></section></header></div>
-                        <!-- END REVOLUTION SLIDER -->
-
-                    
-                
-         
-      </div><!-- END bg-parallax -->
-      <!-- Main Content -->
-      <div id="Content">
-         <div class="content_wrapper clearfix">
-            <div class="sections_group">
-               <div class="entry-content">
-                  <!-- Destacados inicio --><!-- Fit Cloud (Template Banner - Destacados inicio) -->
-<div class="flv_sections_16 section" id="slidingbox" style="padding-top:80px;padding-bottom:80px">
-   <div class="section_wrapper clearfix">
-<div class="wrap mcb-wrap mcb-wrap-xoc3zkenk one valign-top clearfix">
-                                    <div class="mcb-wrap-inner">
-                                        <div class="column mcb-column mcb-item-bjy5hy91w two-third column_column">
-                                            <div class="column_attr clearfix">
-                                                <h2>Nuestras actividades</h2>
-                                            </div>
-                                        </div>
-                                       
-                                    </div>
-                                </div>
-      <div class="items_group clearfix">
-
-         <!-- One Third (1/3) Column -->
-         <div class="column one-fourth column_sliding_box">
-            <div class="sliding_box">
-               <a href="/gimnasio-libre-jj-fitness">
-                  <div class="photo_wrapper"><img class="scale-with-grid" src="images/gimnasio-libre-700.jpg"> </div>
-                  <div class="desc_wrapper">
-                     <h4>Gimnasio libre</h4>
-                  </div>
-               </a>
-            </div>
-         </div><div class="column one-fourth column_sliding_box">
-            <div class="sliding_box">
-               <a href="/entrenamiento-personal-jj-fitness">
-                  <div class="photo_wrapper"><img class="scale-with-grid" src="images/entrenamiento-personal-700.jpg"> </div>
-                  <div class="desc_wrapper">
-                     <h4>Entrenamiento personal</h4>
-                  </div>
-               </a>
-            </div>
-         </div><div class="column one-fourth column_sliding_box">
-            <div class="sliding_box">
-               <a href="/entrenamiento-grupal-jj-fitness">
-                  <div class="photo_wrapper"><img class="scale-with-grid" src="images/entrenamiento-grupal-700.jpg"> </div>
-                  <div class="desc_wrapper">
-                     <h4>Entrenamiento grupal</h4>
-                  </div>
-               </a>
-            </div>
-         </div><div class="column one-fourth column_sliding_box">
-            <div class="sliding_box">
-               <a href="/clase-funcional-jj-fitness">
-                  <div class="photo_wrapper"><img class="scale-with-grid" src="images/funcional-700.jpg"> </div>
-                  <div class="desc_wrapper">
-                     <h4>Funcional</h4>
-                  </div>
-               </a>
-            </div>
-         </div><div class="column one-fourth column_sliding_box">
-            <div class="sliding_box">
-               <a href="/clase-core-jj-fitness">
-                  <div class="photo_wrapper"><img class="scale-with-grid" src="images/core-700.jpg"> </div>
-                  <div class="desc_wrapper">
-                     <h4>Core</h4>
-                  </div>
-               </a>
-            </div>
-         </div><div class="column one-fourth column_sliding_box">
-            <div class="sliding_box">
-               <a href="/clase-hiit-jj-fitness">
-                  <div class="photo_wrapper"><img class="scale-with-grid" src="images/hiit-700.jpg"> </div>
-                  <div class="desc_wrapper">
-                     <h4>Hiit</h4>
-                  </div>
-               </a>
-            </div>
-         </div><div class="column one-fourth column_sliding_box">
-            <div class="sliding_box">
-               <a href="/clase-cross-jj-fitness">
-                  <div class="photo_wrapper"><img class="scale-with-grid" src="images/cross-2-700.jpg"> </div>
-                  <div class="desc_wrapper">
-                     <h4>Cross</h4>
-                  </div>
-               </a>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-                  <!-- Lo que opinan nuestros clientes --><!-- Fit Cloud (Template Banner - Lo que opinan nuestros clientes) -->
-<div class="section mcb-section" style="padding-top:120px; padding-bottom:80px;" data-parallax="3d">
-   <img class="mfn-parallax" src="images/opiniones-jj-fitness-valencia.jpg" style="opacity:0">
-   <div class="section_wrapper mcb-section-inner">
-      <div class="wrap mcb-wrap one valign-top clearfix">
-         <div class="mcb-wrap-inner">
-            <div class="column mcb-column one column_column column-margin-20px">
-               <div class="column_attr clearfix align_center">
-                  <h2 style="color:#000">Lo que opinan nuestros clientes</h2>
-               </div>
-            </div>
-            <div class="column mcb-column one column_divider">
-               <hr class="no_line">
-            </div>
-            <div class="column mcb-column one-fourth column_placeholder">
-               <div class="placeholder">
-                                  
-               </div>
-            </div>
-            <div class="column mcb-column one-second column_column">
-               <div class="column_attr clearfix align_center">
-                  <div id="mc4wp-form-1" class="form mc4wp-form">
-                     <div class="gym2-newsletter">
-                        <a class="mfn-link mfn-link-5" href="https://www.google.com/search?client=firefox-b-d&q=jj+fitness#lrd=0xd604f159d3895e3:0xf7f6e40e2894556c,1" data-hover="Leer" style="border-width: 2px; border-style: solid;"><span data-hover="Leer">Leer</span></a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <footer id="Footer" class="clearfix">
-         <div class="widgets_wrapper">
-
-
-         </div>
-         <div class="footer_copy">
-            <div class="container">
-               <div class="column one">
-                  <a id="back_to_top" class="button button_js" href><i class="icon-up-open-big"></i></a>
-                  <div class="copyright">
-                     © 2022 JJ Fitness - Powered by <a href="https://www.fitcloud.es/" target="_blank">Fitcloud</a>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </footer>
-
-   <!-- /Wrapper -->
-   <div id="body_overlay"></div>
-
-<!-- PWA FC ------------------------------------------------------------------------------->
-<div id="page">
-        <!-- Install Prompt for Android -->
-        <div id="menufc-install-pwa-android" class="menufc menufc-box-bottom roundedfc-m">
-            <img class="mxfc-auto mtfc-4 roundedfc-m" src="images/icon.png" alt="Logo JJ Fitness" width="90">
-            <h4 class="text-center mt-4 mb-2">Instalar Aplicación JJ Fitness</h4>
-            <p class="text-center boxed-text-xl">
-                Instala la aplicación de JJ Fitness en tu dispositivo para poder realizar todas las gestiones de manera cómoda.
-            </p>
-            <div class="boxed-text-l">
-                <a data-menu="menufc-install-pwa-android" href="#" id="ctabuttonpwa" class="pwafc-install mxfc-auto btnfc btn-m font-600 bgfc-highlight">Instalar</a>
-                <a href="#" class="pwafc-dismiss closefc-menu btnfc-full mt-3 pt-2 text-center text-uppercase font-900 color-red-light font-12 pb-4 mb-3">Entendido, no volver a mostrar.</a>
-            </div>
-        </div>
-
-        <!-- Install instructions for iOS -->
-        <div id="menufc-install-pwa-ios" class="menufc menufc-box-bottom roundedfc-m">
-            <div class="boxed-text-xl top-25">
-                <img class="mxfc-auto mt-4 roundedfc-m" src="images/icon.png" alt="img" width="90">
-                <h4 class="text-center mt-4 mb-2">Instalar Aplicación JJ Fitness</h4>
-                <p class="text-center ms-3 me-3">
-                    Instala la aplicación de JJ Fitness en tu dispositivo para poder realizar todas las gestiones de manera cómoda.
-                    <br>
-                    Presiona en el botón compartir de Safari y selecciona: Añadir a la pantalla de inicio.<br>
-                    <img src="images/boton-compartir-ios.jpg" style="max-width: 100%;">
-                </p>
-                <a href="#" class="pwafc-dismiss closefc-menu btnfc-full mt-3 text-center text-uppercase font-900 color-red-light opacity-90 pb-5">Entendido, no volver a mostrar.</a>
-            </div>
-        </div>
-</div>
-<!---------------------------------------------------------------------------------->
-    <!-- JS -->
-    <script src="js/pwa_jjfitness_fitcloudpwa.js"></script>
-
-    <script src="js/jquery-2.1.4.min.js"></script>
-
-    <script src="js/mfn.menu.js"></script>
-    <script src="js/jquery.plugins.js"></script>
-    <script src="js/jquery.jplayer.min.js"></script>
-    <script src="js/animations.js"></script>
-    <script src="js/translate3d.js"></script>
-    <script src="js/scripts.js"></script>
-
-    <script src="js/jquery.themepunch.tools.min.js"></script>
-    <script src="js/jquery.themepunch.revolution.min.js"></script>
-    <script src="js/revolution.extension.video.min.js"></script>
-    <script src="js/revolution.extension.slideanims.min.js"></script>
-    <script src="js/revolution.extension.actions.min.js"></script>
-    <script src="js/revolution.extension.layeranimation.min.js"></script>
-    <script src="js/revolution.extension.kenburn.min.js"></script>
-    <script src="js/revolution.extension.navigation.min.js"></script>
-    <script src="js/revolution.extension.migration.min.js"></script>
-    <script src="js/revolution.extension.parallax.min.js"></script>
-    <script src="js/revolution.extension.carousel.min.js"></script>
-    <script>
-        var tpj = jQuery;
-        var revapi46;
-        tpj(document).ready(function() {
-            if (tpj("#rev_slider_46_1").revolution == undefined) {
-                revslider_showDoubleJqueryError("#rev_slider_46_1");
-            } else {
-                revapi46 = tpj("#rev_slider_46_1").show().revolution({
-                    sliderType:"standard",
-
-                    sliderLayout:"fullscreen",
-                    dottedOverlay:"none",
-                    delay: 9000,
-                    navigation: {
-                        keyboardNavigation:"off",
-                        keyboard_direction:"horizontal",
-                        mouseScrollNavigation:"off",
-                        onHoverStop:"off",
-                        touch: {
-                            touchenabled:"on",
-                            swipe_threshold: 75,
-                            swipe_min_touches: 1,
-                            swipe_direction:"horizontal",
-                            drag_block_vertical: false
-                        }
-                    },
-                    responsiveLevels: [1240, 1024, 778, 480],
-                    gridwidth: [1240, 1024, 778, 480],
-                    gridheight: [868, 768, 960, 720],
-                    lazyType:"none",
-                    parallax: {
-                        type:"mouse",
-                        origo:"slidercenter",
-                        speed: 2000,
-                        levels: [2, 3, 4, 5, 6, 7, 12, 16, 10, 50],
-                        disable_onmobile:"on"
-                    },
-                    shadow: 0,
-                    spinner:"off",
-                    stopLoop:"on",
-                    stopAfterLoops: 0,
-                    stopAtSlide: 1,
-                    shuffle:"off",
-                    autoHeight:"off",
-                    fullScreenAlignForce:"off",
-                    fullScreenOffsetContainer:"",
-                    disableProgressBar:"on",
-                    hideThumbsOnMobile:"off",
-                    hideSliderAtLimit: 0,
-                    hideCaptionAtLimit: 0,
-                    hideAllCaptionAtLilmit: 0,
-                    debugMode: false,
-                    fallbacks: {
-                        simplifyAll:"off",
-                        nextSlideOnWindowFocus:"off",
-                        disableFocusListener: false,
-                    }
-                });
-            }
-        }); /*ready*/
-    </script>
-
-    <script>
-        jQuery(window).load(function() {
-            var retina = window.devicePixelRatio> 1 ? true : false;
-            if (retina) {
-                var retinaEl = jQuery("#logo img");
-                var retinaLogoW = retinaEl.width();
-                var retinaLogoH = retinaEl.height();
-                retinaEl.attr("src","/fotos/erp_jjfitness/logo/logo-jjfitness-b.png").width(retinaLogoW).height(retinaLogoH)
-            }
-        });
-    </script>
-<!-- Fit Cloud (Template Cookies Original) -->
-<!-- Fit Cloud (original: cookies.tpl) -->
-<div class="cookiesfc" id="fccksidcookies" style="display:block">
-	<h1>Esta página web usa cookies</h1>
 	
-	<div class="cookiesdescfc">
-		Las cookies de este sitio web se usan para personalizar el contenido y los anuncios, ofrecer funciones de redes sociales y analizar el tráfico. Además, compartimos información sobre el uso que haga del sitio web con nuestros partners de redes sociales, publicidad y análisis web, quienes pueden combinarla con otra información que les haya proporcionado o que hayan recopilado a partir del uso que haya hecho de sus servicios.
-	</div>
-	
-	<div class="cookiesselsfc">
-		<div title="Obligatorio. No se puede deseleccionar. Las cookies necesarias ayudan a hacer una página web utilizable activando funciones básicas como la navegación en la página y el acceso a áreas seguras de la página web. La página web no puede funcionar adecuadamente sin estas cookies.">
-			<input type="checkbox" id="fccksnecesarias" name="fccksnecesarias" disabled="disabled" checked="checked">
-			<label for="fccksnecesarias">Necesarias</label>
+
+
+</section><!-- .comments-area -->
+</main>
+
+			<div data-elementor-type="footer" data-elementor-id="535" class="elementor elementor-535 elementor-location-footer">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-2725abc4 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="2725abc4" data-element_type="section" data-settings="{" background_background":"classic"}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-279d90f1" data-id="279d90f1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2f5d973f elementor-widget elementor-widget-heading" data-id="2f5d973f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">navega en Dénia Y Jávea</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3a19c1ec elementor-widget elementor-widget-text-editor" data-id="3a19c1ec" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Consulta nuestras ofertas en alquiler y charter de embarcaciones de recreo</p>						</div>
+				</div>
+					</div>
 		</div>
-		<div title="Las cookies de preferencias permiten a la página web recordar información que cambia la forma en que la página se comporta o el aspecto que tiene, como su idioma preferido o la región en la que usted se encuentra.">
-			<input type="checkbox" id="fcckspreferencias" name="fcckspreferencias" checked="checked">
-			<label for="fcckspreferencias">Preferencias</label>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2829d6d elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2829d6d" data-element_type="section" data-settings="{" background_background":"classic"}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3d9e5bc" data-id="3d9e5bc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1251d00 elementor-widget elementor-widget-heading" data-id="1251d00" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">Ven a conocernos</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c728c19 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c728c19" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+										<span class="elementor-icon-list-text">C/ Juan Botella 1  - Dénia</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope-square"></i>						</span>
+										<span class="elementor-icon-list-text">hola@krabithai.es</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-square"></i>						</span>
+										<span class="elementor-icon-list-text">(+34) 722 491 922</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-whatsapp-square"></i>						</span>
+										<span class="elementor-icon-list-text">(34) 722 491 922</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-93db4a1 elementor-widget elementor-widget-heading" data-id="93db4a1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">Nuestras redes</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-204909e e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="204909e" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);-webkit-box-pack:var(--justify-content,center);-ms-flex-pack:var(--justify-content,center);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));height:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;background-color:#818a91;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#818a91}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}</style>		<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-pulse elementor-repeater-item-79a80fe" href="https://www.facebook.com/mythaimassagedenia" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-animation-pulse elementor-repeater-item-ecd7867" href="https://api.whatsapp.com/send?phone=34722491922" target="_blank">
+						<span class="elementor-screen-only">Whatsapp</span>
+						<i class="fab fa-whatsapp"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-pulse elementor-repeater-item-23c23bc" href="https://www.instagram.com/krabi.thai.massage.denia/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-tripadvisor elementor-animation-pulse elementor-repeater-item-0a8a6cf" href="https://www.tripadvisor.es/Attraction_Review-g609043-d23935858-Reviews-Krabi_Thai-Denia_Costa_Blanca_Province_of_Alicante_Valencian_Country.html" target="_blank">
+						<span class="elementor-screen-only">Tripadvisor</span>
+						<i class="fab fa-tripadvisor"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+					</div>
 		</div>
-		<div title="Las cookies estadísticas ayudan a los propietarios de páginas web a comprender cómo interactúan los visitantes con las páginas web reuniendo y proporcionando información de forma anónima.">
-			<input type="checkbox" id="fccksestadistica" name="fccksestadistica" checked="checked">
-			<label for="fccksestadistica">Estadística</label>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-11d67b9" data-id="11d67b9" data-element_type="column" data-settings="{" background_background":"classic"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-700be70 elementor-widget elementor-widget-html" data-id="700be70" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d25065.015057128014!2d-0.6946816!3d38.2533632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc762b31f1317c87!2sKRABI%20THAI%20International%20Massage%20Denia!5e0!3m2!1ses!2ses!4v1647555083747!5m2!1ses!2ses" width="600" height="300" style="border:0;" allowfullscreen loading="lazy"></iframe>		</div>
+				</div>
+					</div>
 		</div>
-		<div title="Las cookies de marketing se utilizan para rastrear a los visitantes en las páginas web. La intención es mostrar anuncios relevantes y atractivos para el usuario individual, y por lo tanto, más valiosos para los editores y terceros anunciantes.">
-			<input type="checkbox" id="fccksmarketing" name="fccksmarketing" checked="checked">
-			<label for="fccksmarketing">Marketing</label>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e413968" data-id="e413968" data-element_type="column" data-settings="{" background_background":"classic"}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1eb0db4 elementor-widget-mobile__width-initial elementor-widget elementor-widget-html" data-id="1eb0db4" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div id="TA_selfserveprop163" class="TA_selfserveprop"><ul id="5a6mUMi" class="TA_links hosOg8DI"><li id="wkl6sbn" class="Ro9GCe"><a target="_blank" href="https://www.tripadvisor.es/Attraction_Review-g609043-d23935858-Reviews-Krabi_Thai-Denia_Costa_Blanca_Province_of_Alicante_Valencian_Country.html"><img src="fonts/Tripadvisor_lockup_horizontal_secondary_registered-11900-2.svg" alt="TripAdvisor"></a></li></ul></div><script async src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=163&amp;locationId=23935858&amp;lang=es&amp;rating=true&amp;nreviews=4&amp;writereviewlink=true&amp;popIdx=false&amp;iswide=true&amp;border=true&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>		</div>
+				</div>
+					</div>
 		</div>
-		<div>
-			<input name="aceptar" type="button" onclick="guardarcookies();" value="Permitir Seleccionados">
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1ec3e5d7 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1ec3e5d7" data-element_type="section" data-settings="{" background_background":"classic"}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2cd5737c" data-id="2cd5737c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9f9b469 elementor-nav-menu__align-center elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="9f9b469" data-element_type="widget" data-settings="{" submenu_icon":{"value":"<i><\ i>","library":""},"layout":"horizontal"}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-none">
+				<ul id="menu-1-9f9b469" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https://krabithai.es/politica-de-cookies/" class="elementor-item">Política de Cookies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="https://krabithai.es/politica-de-privacidad/" class="elementor-item">Política de privacidad</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558"><a href="https://krabithai.es/pagina-ejemplo/" class="elementor-item">Aviso legal</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Alternar menú" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menú</span>
 		</div>
-	</div>
-</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-9f9b469" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https://krabithai.es/politica-de-cookies/" class="elementor-item" tabindex="-1">Política de Cookies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="https://krabithai.es/politica-de-privacidad/" class="elementor-item" tabindex="-1">Política de privacidad</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558"><a href="https://krabithai.es/pagina-ejemplo/" class="elementor-item" tabindex="-1">Aviso legal</a></li>
+</ul>			</nav>
+				</div>
+				</\></div>
+				<div class="elementor-element elementor-element-422144d2 elementor-widget elementor-widget-text-editor" data-id="422144d2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div class="ac-gf-footer-legal-copyright" style="text-align: center;">Copyright © IE 2022 | Krabi Thai | International massage Dénia. Todos los derechos reservados.</div>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel="stylesheet" id="e-animations-css" href="css/animations.min.css" type="text/css" media="all">
+<script type="text/javascript" src="js/regenerator-runtime.min.js" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="js/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/krabithai.es\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="js/index.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="js/jquery.blockUI.min.js" id="jquery-blockui-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%&elementor_page_id=21","i18n_view_cart":"Ver carrito","cart_url":"https:\/\/krabithai.es\/?page_id=39","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="js/add-to-cart.min.js" id="wc-add-to-cart-js"></script>
+<script type="text/javascript" src="js/js.cookie.min.js" id="js-cookie-js"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%&elementor_page_id=21"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="js/woocommerce.min.js" id="woocommerce-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%&elementor_page_id=21","cart_hash_key":"wc_cart_hash_660bbe627e281f7b0f571ba98a16a372","fragment_name":"wc_fragments_660bbe627e281f7b0f571ba98a16a372","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="js/cart-fragments.min.js" id="wc-cart-fragments-js"></script>
+<script type="text/javascript" src="js/hello-frontend.min.js" id="hello-theme-frontend-js"></script>
+<script type="text/javascript" src="js/wp-embed.min.js" id="wp-embed-js"></script>
+<script type="text/javascript" src="js/jquery.smartmenus.min.js" id="smartmenus-js"></script>
+<script type="text/javascript" src="js/imagesloaded.min.js" id="imagesloaded-js"></script>
+<script type="text/javascript" src="js/webpack-pro.runtime.min.js" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="js/webpack.runtime.min.js" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="js/frontend-modules.min.js" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="js/hooks.min.js" id="wp-hooks-js"></script>
+<script type="text/javascript" src="js/i18n.min.js" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type="text/javascript" id="elementor-pro-frontend-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor-pro", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/krabithai.es\/wp-admin\/admin-ajax.php","nonce":"ab56437c77","urls":{"assets":"https:\/\/krabithai.es\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/krabithai.es\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/krabithai.es\/?page_id=39","checkout_page_url":"https:\/\/krabithai.es\/?page_id=40","fragments_nonce":"aa1247feba"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/krabithai.es\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type="text/javascript" src="js/frontend.min.js" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" src="js/waypoints.min.js" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="js/core.min.js" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil grande","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta grande","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.7","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/krabithai.es\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[],"hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":21,"title":"Krabi%20Thai%20%7C%20International%20massage%20D%C3%A9nia","excerpt":"","featuredImage":"https:\/\/krabithai.es\/wp-content\/uploads\/2022\/03\/Captura-de-pantalla-2022-03-05-a-las-12.30.09-1024x906.png"}};
+</script>
+<script type="text/javascript" src="js/frontend.min_1.js" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="js/elements-handlers.min.js" id="pro-elements-handlers-js"></script>
+<script type="text/javascript" src="js/jquery.sticky.min.js" id="e-sticky-js"></script>
+
+
 
 </body></html>
